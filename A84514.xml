@@ -1,0 +1,1265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of all such acts of Parliament, now in force, as relate to the admiralty and navy of England</title>
+            <title>Public General Acts. Selections: Royal Navy</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 135 KB of XML-encoded text transcribed from 105 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84514</idno>
+            <idno type="STC">Wing E861B</idno>
+            <idno type="STC">ESTC R224492</idno>
+            <idno type="EEBO-CITATION">99897933</idno>
+            <idno type="PROQUEST">99897933</idno>
+            <idno type="VID">135699</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84514)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135699)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2555:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of all such acts of Parliament, now in force, as relate to the admiralty and navy of England</title>
+                  <title>Public General Acts. Selections: Royal Navy</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[16], 94, [98] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by S. Bridge in Austin Friers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCVII. [1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Leaves A1, A8, N6-8, and every even-numbered leaf from sig. B onwards are blank. Odd numbered leaves are paginated: 1-2, 3-4, ... .</note>
+                  <note>Register is continuous despite pagination.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy --  Law and legislation --  Early works to 1800.</term>
+               <term>Admiralty --  England --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135699:1"/>
+            <pb facs="tcp:135699:1" rendition="simple:additions"/>
+            <p>AN ABSTRACT Of all SUCH ACTS OF Parliament, Now in FORCE, As Relate to the <hi>Admiralty</hi> AND Navy of England.</p>
+            <p>LONDON: Printed by <hi>S. Bridge</hi> in <hi>Auſtin Friers.</hi> MDCXCVII.</p>
+         </div>
+         <div type="index">
+            <pb facs="tcp:135699:2"/>
+            <pb facs="tcp:135699:2"/>
+            <head>A TABLE TO THIS Abridgment and Abſtract.</head>
+            <list>
+               <head>A.</head>
+               <item>
+                  <hi>ADmiral,</hi> and their Deputies, not to meddle with things done within the Realm Page 2.</item>
+               <item>
+                  <hi>Admiral,</hi> Commiſſioners of <hi>Admiralty,</hi> to have ſame Authority Page 46.</item>
+               <item>
+                  <hi>Admiral</hi> not to Exact Money for Li<g ref="char:EOLhyphen"/>cence to Trade Page 6, 7.</item>
+               <item>Commiſſioners of <hi>Admiralty</hi> to have Tenth of Prizes to buy Meddals Page 54.</item>
+               <item>
+                  <hi>Admirals</hi> Juriſdiction ſaved in Stat. 1 &amp; 2 Phil. &amp; Mar. Page 8.</item>
+               <item>
+                  <hi>Admiral</hi> may execute Powers given to Commiſſioners of Navy Page 43.</item>
+               <item>Commiſſioners of <hi>Admiralty</hi> to have Copy of Regiſtry Page 67.</item>
+               <pb facs="tcp:135699:3"/>
+               <item>Action againſt <hi>Admiral,</hi> if act againſt the Statute 13 Rich II. Page 3.</item>
+               <item>
+                  <hi>Articles</hi> for Government of His Maje<g ref="char:EOLhyphen"/>ſties Navy Page 11.
+<list>
+                     <item>
+                        <hi>Appeals,</hi> vide <hi>Delegates.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>
+                  <hi>BEhaviour,</hi> Commiſſioners of Navy have power to bind to Good Be<g ref="char:EOLhyphen"/>haviour Page 32.</item>
+            </list>
+            <list>
+               <head>C.</head>
+               <item>
+                  <hi>COurt</hi> of King's Bench, or Com<g ref="char:EOLhyphen"/>miſſion of Oier and Terminer, to have power to Try Offences againſt Stat. 13 Car. II. Page 61.
+<list>
+                     <item>Continuance of that Act Page 62.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Cinque Ports,</hi> their Authority, as to Stat. Hen. VIII page 4, 5. As to Re<g ref="char:EOLhyphen"/>giſtry of Seamen; And as to Certi<g ref="char:EOLhyphen"/>ficates of Regiſtred Seamen inhabiting there Page 74, 89.</item>
+               <item>
+                  <hi>Chaplain,</hi> or <hi>Chyrurgion</hi> of Ship, not obliged to be Regiſtred Page 74.</item>
+               <item>
+                  <hi>Cruiſers</hi> appointed by Act of Parlia<g ref="char:EOLhyphen"/>ment Page 77, 79, 91</item>
+               <item>
+                  <hi>Commiſſioners</hi> Civil and Military, not to determine on Demiſe of the King Page 77.</item>
+               <pb facs="tcp:135699:3"/>
+               <item>
+                  <hi>Certificate</hi> under the Hand of one Ju<g ref="char:EOLhyphen"/>ſtice of Peace for Regiſtred Seamen Page 73.</item>
+               <item>
+                  <hi>Commiſſioners</hi> of Regiſtry to Exa<g ref="char:EOLhyphen"/>mine Matters upon Oath, as to Sea<g ref="char:EOLhyphen"/>mens Wages, and Quakers on So<g ref="char:EOLhyphen"/>lemn Declaration Page 85, 87.</item>
+               <item>
+                  <hi>Connuſance</hi> of things belonging to Ad<g ref="char:EOLhyphen"/>miral Page 1.</item>
+               <item>
+                  <hi>Commiſion</hi> ſur Stat. 27 Hen. VIII. for Tryals of Treaſon Page 4, 5.</item>
+               <item>
+                  <hi>Clergy,</hi> or Sanctuary, not to be allow'd to Perſons convict on that Statute ibm.</item>
+               <item>
+                  <hi>Clergy</hi> not to be allow'd to Imbezlers of Stores Page 36.</item>
+               <item>
+                  <hi>Carriages</hi> by Water for King's Uſe, Page 26, 27.</item>
+               <item>
+                  <hi>Counterfeiters</hi> of Hand of Treaſurer, or Commiſſioners of Navy Page 41.</item>
+               <item>
+                  <hi>Commiſſioners</hi> of Prizes, their Duty, Page 52 55, 61</item>
+               <item>
+                  <hi>Commiſſioners</hi> of Navys Power as to Imbezlements Page 33, 38.</item>
+               <item>
+                  <hi>Certificates</hi> to be brought by Regiſtred Perſons, Vide <hi>Regiſter.</hi>
+               </item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>
+                  <hi>DIſturbance</hi> in Navy Yards, &amp;c. Page 35, 37.</item>
+               <item>
+                  <hi>Delegates,</hi> their Sentence final, Appeal out of Admiralty Court Page 11.</item>
+               <item>
+                  <hi>Declaration</hi> to be taken by Officers of Navy Page 80.</item>
+               <item>
+                  <hi>Deputies</hi> of Admiral, vide <hi>Iurisdiction.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:135699:4"/>
+            <list>
+               <head>F.</head>
+               <item>
+                  <hi>FElony</hi> to Imbezle King's Stores Page 36.</item>
+               <item>
+                  <hi>Forfeitures</hi> on Stat. 2 &amp; 3 Ed. VI. Page 7.</item>
+               <item>
+                  <hi>Forfeitures</hi> on 22 &amp; 23 Car. II. Page 38.</item>
+               <item>
+                  <hi>Fines</hi> to be impoſed by Commiſſioners of Navy Page 32.</item>
+               <item>
+                  <hi>Fees</hi> to be taken for Probate of Wills of Seamen Page 42.</item>
+               <item>
+                  <hi>Fraud</hi> and Abuſes in Plantation Trade redreſt Page 78.</item>
+            </list>
+            <list>
+               <head>G.</head>
+               <item>
+                  <hi>GIfts</hi> or Rewards not to be taken to exempt Carriages from the King's Service Page 29.</item>
+            </list>
+            <list>
+               <head>I.</head>
+               <item>
+                  <hi>JVrisdiction</hi> of things not belonging to Admiralty Page 2.</item>
+               <item>
+                  <hi>Iudgment</hi> on Offendors, on Statute 27 &amp; 28 Hen. VIII. Page 4.</item>
+               <item>
+                  <hi>Iury</hi> from whence to come on Tryals on thoſe Statutes Page 4, 5.</item>
+               <item>
+                  <hi>Iuſtices</hi> of Peace to determine Offences of Deſertion of Seamen on Statute 18 Hen. VI. Page 10.</item>
+               <item>
+                  <hi>Incouragement</hi> for Seamens defending Merchants Ships Page 34.
+<list>
+                     <pb facs="tcp:135699:4"/>
+                     <item>And for Seamen on Board the King's Ships Page 35.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Impriſonment</hi> of <hi>Imbezlers</hi> for want of Diſtreſs Page 32, 39.</item>
+               <item>
+                  <hi>Inſtructions</hi> to be given to Captains, of the Statute to Prohibit Trade with France Page 60.</item>
+               <item>
+                  <hi>Iuſtices</hi> of Peace to Examine on Oath, as to the truth of Certificates by them given Page 83.</item>
+            </list>
+            <list>
+               <head>L.</head>
+               <item>
+                  <hi>LOrds</hi> of Mannors who claim Wreck Page 2.</item>
+               <item>
+                  <hi>Licences</hi> to Fiſh to be without Fee Page 7.</item>
+               <item>
+                  <hi>Liberties,</hi> Commiſſioners of Navy to have power, as well within Liberties, as without Page 33, 42.</item>
+               <item>
+                  <hi>Licences</hi> for Landmen to ſerve on Ship-board Page 73.</item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>
+                  <hi>MVrder</hi> and <hi>Mayhem</hi> done in great Ships in Main Stream, how to be Try'd Page 3.</item>
+               <item>
+                  <hi>Manſlaughter</hi> and <hi>Murder</hi> on High Seas Page 4.</item>
+               <item>
+                  <hi>Mariners</hi> Deſerting Service Page 49.
+<list>
+                     <item>— Not to be forced to Land-Service Page 10.</item>
+                  </list>
+               </item>
+               <pb facs="tcp:135699:5"/>
+               <item>
+                  <hi>Manner</hi> of taking Fiſhermen to be <hi>Ma<g ref="char:EOLhyphen"/>riners</hi> for King's Service Page 10.</item>
+            </list>
+            <list>
+               <head>N.</head>
+               <item>
+                  <hi>NEceſſity,</hi> Things taken for Neceſſity Page 5, 6.</item>
+               <item>Commiſſioners of <hi>Navy</hi> power as to imbezling Stores Page 32, 29.</item>
+               <item>
+                  <hi>Navy,</hi> and Commiſſioners of Navy, vide <hi>Commiſſioners</hi> and Imbezlers.</item>
+            </list>
+            <list>
+               <head>O.</head>
+               <item>
+                  <hi>OAth,</hi> Proceedings to be on <hi>Oath</hi> about Diſturbances of Seamen Page 32.</item>
+               <item>
+                  <hi>Oaths</hi> to be given by Commiſſioners of Navy Page 41.
+<list>
+                     <item>And by Commiſſioners of Admiralty Page 44.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Offences</hi> not to be twice puniſh'd Page 43.</item>
+               <item>
+                  <hi>Oaths</hi> of Allegiance and Supremacy, by whom, and before whom to be taken Page 44, 93.</item>
+               <item>
+                  <hi>Oath</hi> of Court Martial Page 47.</item>
+               <item>
+                  <hi>Office</hi> and <hi>Officers</hi> for Regiſtring Seamen Page 65.</item>
+               <item>
+                  <hi>Oaths</hi> to be taken by Officers of Regiſtry Page 66.</item>
+               <item>
+                  <hi>Order</hi> of time to be obſerved in proviſi<g ref="char:EOLhyphen"/>on for diſabled Mariners, their Wives and Children Page 82.</item>
+            </list>
+            <pb facs="tcp:135699:5"/>
+            <list>
+               <head>P.</head>
+               <item>
+                  <hi>Penalty</hi> and Puniſhment for Exacti<g ref="char:EOLhyphen"/>ons contrary to Stat. 2 &amp; 3 E. VI. ca. 6. Page 7.</item>
+               <item>
+                  <hi>Penalty</hi> on Offenders againſt Stat. 13 &amp; 14 Car. II. cap. 20. Page 30.</item>
+               <item>
+                  <hi>Preſſing</hi> Ships and Veſſels for King's Service Page 28.</item>
+               <item>
+                  <hi>Perſons</hi> refuſing to ſerve with Ships when Preſs'd, how to be puniſh'd Page 28.</item>
+               <item>
+                  <hi>Proviſo</hi> in the Stat. 13 Car. II. not give greater power to Lord High Admiral Page 26.</item>
+               <item>
+                  <hi>Puniſhment</hi> for diſturbance in Navy Yards, &amp;c. Page 31, 32.</item>
+               <item>
+                  <hi>Power</hi> to diſcharge Fines by Commiſſi<g ref="char:EOLhyphen"/>oners of Navy Page 32.</item>
+               <item>
+                  <hi>Power</hi> to make Warrants and ſearch Ships in day-time for imbezled Goods Page 39.</item>
+               <item>
+                  <hi>Perſonating</hi> Seamen to receive Wages, their Puniſhment Page 40.</item>
+               <item>
+                  <hi>Powers</hi> given by Stat. 22 &amp; 23 Car. II. may be executed by Ld. High Admiral Page 43.</item>
+               <item>
+                  <hi>Prohibition</hi> of Trade with France Page 47.</item>
+               <item>
+                  <hi>Prizes</hi> to be brought into Port, without breaking Bulk or Imbezlement Page 48.</item>
+               <item>
+                  <hi>Periſhable</hi> Goods, how to be diſpos'd ibm.</item>
+               <item>
+                  <hi>Prize</hi> Goods condemn'd, how to be ſold Page 49.</item>
+               <item>
+                  <hi>Puniſhment</hi> for imbezling Prize Goods Page 51.</item>
+               <item>
+                  <hi>Prize</hi> taken by Man of War, or Priva<g ref="char:EOLhyphen"/>teer, how to be divided Page 50, 51</item>
+               <item>
+                  <hi>Prizes</hi> taken by Colluſion Page 53.</item>
+               <item>
+                  <hi>Proviſion</hi> made for Regiſtred Seamen, their Wives and Children Page 69, 81, 82</item>
+               <pb facs="tcp:135699:6"/>
+               <item>Double ſhare of <hi>Prizes</hi> to Regiſtred Seamen Page 69</item>
+               <item>
+                  <hi>Perſonating</hi> Regiſtred Seamen, or counterfeiting Licence Page 73.</item>
+               <item>
+                  <hi>Penalty</hi> on refuſers to take the Oaths, Teſt, or ſubſcribe Aſſociation Page 75, 80</item>
+               <item>
+                  <hi>Puniſhment</hi> of Lenders and Borrowers of Regiſtred Seamens Certificates Page 88, 89.</item>
+            </list>
+            <list>
+               <head>Q.</head>
+               <item>
+                  <hi>QValifications</hi> of Officers of the Fleet, as to taking the Oath, Teſt, &amp;c. Page 80.</item>
+            </list>
+            <list>
+               <head>R.</head>
+               <item>
+                  <hi>REgiſtry</hi> of Seamen, an Act for that purpoſe Page 63</item>
+               <item>
+                  <hi>Rewards</hi> to Regiſtred Seamen Page 68</item>
+               <item>
+                  <hi>Regiſtred</hi> Seamens Priviledges Page 69</item>
+               <item>
+                  <hi>Regiſtred</hi> Seamen, Aged and Diſabled, how to be provided for ibm.
+<list>
+                     <item>—Their Widows and Children, &amp;c. Page 70.</item>
+                     <item>—Abſenting from Service ibm.</item>
+                     <item>—may be expunged by Admiralty. Page 73.</item>
+                  </list>
+               </item>
+               <item>In what Caſes Perſons of 50 years of age may be <hi>Regiſtred</hi> Page 85</item>
+            </list>
+            <pb facs="tcp:135699:6"/>
+            <list>
+               <head>S.</head>
+               <item>
+                  <hi>SHips</hi> exempted from preſſing Page 30.</item>
+               <item>
+                  <hi>Sentence</hi> of Death ſur Statute 13 Car. II. not to be inflicted without leave from Lord High Admiral Page 25.</item>
+               <item>
+                  <hi>Sentence</hi> of Death by Court Marſhal ibm.</item>
+               <item>
+                  <hi>Saving</hi> of Admirals Juriſdiction Page 8.</item>
+               <item>
+                  <hi>Saving</hi> Franchiſes to private Perſons Page 10.</item>
+               <item>
+                  <hi>Salvage</hi> for re-taken Ships Page 59</item>
+               <item>
+                  <hi>Seamen</hi> allowed Colliers not to be preſt Page 90.</item>
+            </list>
+            <list>
+               <head>T.</head>
+               <item>
+                  <hi>TRyals</hi> of Hereſies, Murders and Felonies on High Sea Page 4, 5.</item>
+               <item>
+                  <hi>Time</hi> to prove Property of Wreckt Goods Page 1.</item>
+               <item>
+                  <hi>Trinity-Houſe,</hi> None to be Maſters of, unleſs Regiſtred Page 71.</item>
+               <item>
+                  <hi>Trinity-Houſe</hi> to ſettle Rates of Preſt Ships Page 28.</item>
+               <item>
+                  <hi>Tryal</hi> of Offences againſt Stat. 13 Car. II. by Court of King's Bench, or Com<g ref="char:EOLhyphen"/>miſſion of Oyer and Terminer Page 61.</item>
+            </list>
+            <list>
+               <head>V.</head>
+               <item>
+                  <hi>Vouching</hi> Seamen to be Landmen Page 73.</item>
+            </list>
+            <pb facs="tcp:135699:7"/>
+            <list>
+               <head>W.</head>
+               <item>
+                  <hi>WReck</hi> not inquirable in Court of Admiralty Page 2.
+<list>
+                     <item>—The Deſcription thereof, and what to be done therewith Page 1.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Warrant</hi> of Commiſſioners of Navy, to ſearch for imbezzled Goods Page 39.</item>
+               <item>
+                  <hi>Wages</hi> of all Seamen to pay 6 d. per Menſem Page 71.</item>
+               <item>
+                  <hi>Warrant-Officers</hi> of Navy need not take the Sacrament Page 81.</item>
+            </list>
+            <list>
+               <head>Y.</head>
+               <item>
+                  <hi>YEar</hi> and Day, Property of Wreckt Goods, in that time to be proved Page 2.</item>
+            </list>
+            <pb facs="tcp:135699:7"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:135699:8"/>
+            <pb n="1" facs="tcp:135699:8"/>
+            <head>AN ABSTRACT AND Abridgement of ſuch Statutes as are now in Force, and Con<g ref="char:EOLhyphen"/>cern the Lord High Admiral of <hi>England,</hi> Commiſſioners for Exe<g ref="char:EOLhyphen"/>cuting the Office of Lord High Admiral, and the Juriſdiction of the Admiralty of <hi>England;</hi> The Commiſſioners of the Navy; The Commiſſioners for Regiſtering Seamen; The Navy of <hi>England,</hi> and Sailers and Mariners therein.</head>
+            <div type="statute">
+               <head>Anno 3 Edw. I. cap. iv.</head>
+               <p>COncerning Wreck<note place="margin">Wreck.</note> at Sea: Where a Man, Dog or Cat, Eſcape out of the Ship Quick, that Ship or Barge, <hi>&amp;c.</hi> or any thing within them, ſhall not be ad<g ref="char:EOLhyphen"/>judged Wreck; but the Goods ſhall
+<pb n="2" facs="tcp:135699:9"/> be ſaved, and kept by the View of the Sheriff, Coroner, or the King's Bayliff; So that if any Sue for the ſaid Goods, and prove they were his within a Year and a Day, they ſhall be reſtored without delay; And where Wreck belongs to any other than the King,<note place="margin">Lord who Claimeth Wreck.</note> he ſhall have it in like manner.</p>
+            </div>
+            <div type="statute">
+               <head>Anno 13 Rich. II. cap. v.</head>
+               <p>
+                  <note place="margin">Admiral.</note>THat the Admirals and their Deputies ſhould not meddle of any thing done within the Realm, but only of a thing done upon the Sea, as it hath bin uſed in the time of the Honourable Prince <hi>Ed<g ref="char:EOLhyphen"/>ward,</hi> Grandfather of <hi>Richard</hi> the Se<g ref="char:EOLhyphen"/>cond.</p>
+            </div>
+            <div type="statute">
+               <head>Anno 15 Rich. II. cap. iii.</head>
+               <p>
+                  <note place="margin">Admirals.</note>IT is declared, That of all man<g ref="char:EOLhyphen"/>ner of Contracts, Pleas and Quarrels, and of all other things done, riſing within the Bodies of Counties,<note place="margin">Wrecks.</note> as well by Land as by Water; and alſo Wreck of the Sea, The Admirals Court ſhall have no
+<pb facs="tcp:135699:9"/>
+                  <pb facs="tcp:135699:10"/>
+                  <pb n="3" facs="tcp:135699:10"/> manner of Conniſance, Power or Iurisdiction,<note place="margin">Juriſdiction.</note> but they to be determi<g ref="char:EOLhyphen"/>ned by Laws of the Land, Not be<g ref="char:EOLhyphen"/>fore Admiral. <hi>Nevertheleſs,</hi> of the Death of a Man,<note place="margin">Murder, May<g ref="char:EOLhyphen"/>hem.</note> and of Mayhem done in great Ships, being in the main Stream of great Rivers, on<g ref="char:EOLhyphen"/>ly beneath the firſt Bridge of the ſame Rivers near the Sea, the Ad<g ref="char:EOLhyphen"/>miral ſhall have Conniſance, <hi>And alſo,</hi> to Arreſt Ships<note place="margin">Arreſt Ships.</note> in the great Floats for the great Voiages of the King and the Realm, ſaving always to the King all manner of Forfei<g ref="char:EOLhyphen"/>tures,<note place="margin">Admiralty Ju<g ref="char:EOLhyphen"/>riſdiction of Floats.</note> And he ſhall have alſo Iuriſ<g ref="char:EOLhyphen"/>diction of the ſaid Floats during the ſaid Voiages only.</p>
+            </div>
+            <div type="statute">
+               <head>Anno 2 Hen. IV. cap. xi.</head>
+               <p>THe Statute 13 <hi>Richard</hi> the Se<g ref="char:EOLhyphen"/>cond confirmed,<note place="margin">Action contra Admiral.</note> and Action gi<g ref="char:EOLhyphen"/>ven againſt the Admiral, <hi>&amp;c.</hi> by Par<g ref="char:EOLhyphen"/>ty grieved, is Proſecuted contrary to the Statute.</p>
+            </div>
+            <div type="statute">
+               <pb n="4" facs="tcp:135699:11"/>
+               <head>Anno 27 Hen. VIII. cap. iv.</head>
+               <p n="1">
+                  <note place="margin">Pirates, Man<g ref="char:EOLhyphen"/>ſlaughter.</note>
+                  <hi>I.</hi> THe Statute recites the incon<g ref="char:EOLhyphen"/>veniency of Trying of Py<g ref="char:EOLhyphen"/>rates, Manſlaughters at the Civil Law, and <hi>Enacts,</hi> That all ſuch Of<g ref="char:EOLhyphen"/>fences done in or upon the High Sea, or in any other River, Haven or Creek, where the Admiral, <hi>&amp;c.</hi> pre<g ref="char:EOLhyphen"/>tend to have Iurisdiction, ſhall be Inquired,<note place="margin">Tryal of Pi<g ref="char:EOLhyphen"/>racy.</note> Try'd and Determined in ſuch Shires as ſhall be limited in King's Commiſſion<note place="margin">Commiſſion.</note> under the Great Seal to Admiral, <hi>&amp;c.</hi> Directed to Hear and Determine ſuch Offences according to Common Courſe of the Laws of the Land.</p>
+               <p n="2">
+                  <hi>II.</hi> To enquire by Iury as if Of<g ref="char:EOLhyphen"/>fences committed at Land, upon In<g ref="char:EOLhyphen"/>dictment for ſuch Offence, like Try<g ref="char:EOLhyphen"/>al,<note place="margin">Tryal.</note> 
+                  <hi>&amp;c.</hi> as in Caſe of Offences com<g ref="char:EOLhyphen"/>mitted at Land: And Perſons Con<g ref="char:EOLhyphen"/>vict<note place="margin">Perſons Con<g ref="char:EOLhyphen"/>vict.</note> ſhall have and ſuffer ſuch Pains of Death, Loſs of Lands, <hi>&amp;c.</hi> as if they had been Convicted of Felony or Murder done on Land.<note place="margin">Judgment.</note>
+               </p>
+               <p n="3">
+                  <hi>III.</hi> No Clergy or Sanctuary to be allowed.<note place="margin">Clergy, Sanct<g ref="char:EOLhyphen"/>uary.</note>
+               </p>
+               <pb facs="tcp:135699:11"/>
+               <pb facs="tcp:135699:12"/>
+               <pb n="5" facs="tcp:135699:12"/>
+               <p n="4">
+                  <hi>IV. Proviſo,</hi> That things taken for Neceſſity,<note place="margin">Things taken for neceſſity.</note> Perſons ſo taking ſhall not be puniſhed, if give Security for Payment.</p>
+               <p n="5">
+                  <hi>V.</hi> If Commiſſion directed with in Iurisdiction of Cinque Ports,<note place="margin">Cinque-Ports.</note> Then to be directed to the Lord Warden, <hi>&amp;c.</hi>
+               </p>
+               <p>In Caſe of ſuch Commisſion with<g ref="char:EOLhyphen"/>in Cinque Ports,<note place="margin">Tryal in Cinque Ports.</note> Tryal to be by the Inhabitants of Cinque-Ports.</p>
+            </div>
+            <div type="statute">
+               <head>Anno 28 Hen. VIII. cap. xv.</head>
+               <p n="1">
+                  <hi>I.</hi> REcites where Traytors,<note place="margin">Pirates, Tray<g ref="char:EOLhyphen"/>tors.</note> Pi<g ref="char:EOLhyphen"/>rates, Thieves, Robbers, Murderers and Confederates upon the Sea have eſcaped un-puniſhed becauſe of the difficulty of Proceed<g ref="char:EOLhyphen"/>ings before Lord Admiral according to Courſe of Civil Law, Directs Tryal<note place="margin">Directs Tryal.</note> by Commiſſion under Great Seal,<note place="margin">Commiſſion to Admiral.</note> directed to the Lord High Ad<g ref="char:EOLhyphen"/>miral and other, of Treaſons, Fe<g ref="char:EOLhyphen"/>lonies, Robberies, Murders and Confederacies committed on Sea, <hi>&amp;c.</hi> to hear and determine as the Common Law of Land directs.</p>
+               <pb n="6" facs="tcp:135699:13"/>
+               <p n="2">
+                  <hi>II.</hi> Commiſſioners have Authority to Proceed by Inqueſt to take In<g ref="char:EOLhyphen"/>dictments by Oath of Twelve Iu<g ref="char:EOLhyphen"/>rors Inhabitants in County limited in Commiſſion,<note place="margin">Inqueſt by Ju<g ref="char:EOLhyphen"/>ry.</note> Such Tryal to be had, and Iudgment<note place="margin">Judgment.</note> on Perſons Convict, as if for like Offences at Land.</p>
+               <p n="3">
+                  <hi>III. Proviſo</hi> to take away Clergy<note place="margin">Clergy.</note> from Perſons Convict on that Commiſſion.</p>
+               <p n="4">
+                  <note place="margin">Things taken for neceſſity.</note>
+                  <hi>IV.</hi> Like Direction for things ta<g ref="char:EOLhyphen"/>ken for neceſſity, and giving Secu<g ref="char:EOLhyphen"/>rity for Paiment, as in 27 <hi>Hen.</hi> 8.</p>
+               <p n="5">
+                  <hi>V.</hi> Like Directions as 27 <hi>Hen.</hi> 8. for Commiſſioners of Cinque Ports.</p>
+               <p n="6">
+                  <hi>VI.</hi> Like Directions for Tryal on ſuch Commiſſion by Inhabitants of Cinque Ports.</p>
+            </div>
+            <div type="statute">
+               <head>Anno 2 &amp; 3 Edward. VI. cap. vi.</head>
+               <p>AN Act that the Admiral of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> nor any of his Officers, ſhall not Exact any Sums of Mo<g ref="char:EOLhyphen"/>ney for Licence to Trade to <hi>Ire<g ref="char:EOLhyphen"/>land, &amp;c.</hi>
+               </p>
+               <pb facs="tcp:135699:13"/>
+               <pb facs="tcp:135699:14"/>
+               <pb n="7" facs="tcp:135699:14"/>
+               <p>Firſt Recites, That for few years then paſt, there has bin taken by certain Officers of the Admiralty of ſuch Merchants as practis'd Adventures into <hi>Iſland, Newfound<g ref="char:EOLhyphen"/>land, Ireland,</hi> and other Places com<g ref="char:EOLhyphen"/>modious for Fiſhing, divers great Sums of Money; And whereas great Complaints thereof hath been made, To the end the more Plen<g ref="char:EOLhyphen"/>ty of Fiſh may be brought into the Realm, and the ſame may be had at a more reaſonable Price.</p>
+               <p>
+                  <hi>It is Enacted,</hi>
+                  <note place="margin">Not to Exact.</note> That neither the Ad<g ref="char:EOLhyphen"/>miral, nor any Officers nor Mini<g ref="char:EOLhyphen"/>ſters of the Admiralty ſhall at any time hereafter Exact, <hi>&amp;c.</hi> by himſelf or his Servants, <hi>&amp;c.</hi> of any ſuch Merchant or Fiſherman, any ſum or ſums of Money, Doles or Thirds of Fiſh for any Licence to paſs this Realm to the ſaid Voiages, or any of them, upon pain of forfeiture<note place="margin">Forfeiture.</note> for the firſt Offence treble the ſum or ſumms of the Reward ſo received, for which Forfeiture the Party grieved, or any other Perſon to ſue for the ſame, the King to have one Moiety,<note place="margin">Given to Par<g ref="char:EOLhyphen"/>ty grieved.</note> and the Party grieved the other, and no Protection to be allowed for the ſecond Offence,<note place="margin">Second Of<g ref="char:EOLhyphen"/>fence.</note> the Party offending to forfeit his or
+<pb n="8" facs="tcp:135699:15"/> or their Offices in the Admiralty,<note place="margin">Puniſhment.</note> and to make Fine and Ranſom.</p>
+            </div>
+            <div type="statute">
+               <head>Anno 1 &amp; 2 Phil. &amp; Mar. cap. v.</head>
+               <p>AN Act to reſtrain carrying of Corn, Victuals and Wood o<g ref="char:EOLhyphen"/>ver the Seas, It Recites the Miſ<g ref="char:EOLhyphen"/>chief, and gives Forfeiture of Ship and Goods in Caſe of Tranſporta<g ref="char:EOLhyphen"/>tion without Licence; enables Iuſti<g ref="char:EOLhyphen"/>ces of the Peace to hear and deter<g ref="char:EOLhyphen"/>mine Offences againſt that Act, and in it is a <hi>Proviſo,</hi>
+                  <note place="margin">Proviſo.</note> That that Act ſhall not be prejudicial unto the Lord Admiral, or the King and Queens Iurisdiction of Admiralty; but that the Lord High Admiral or Deputies may execute all kind of Iurisdiction belonging to the Sea,<note place="margin">Admiral's Ju<g ref="char:EOLhyphen"/>riſdiction ſa<g ref="char:EOLhyphen"/>ved.</note> according as might have bin done before the making of this Statute.</p>
+               <pb facs="tcp:135699:15"/>
+               <pb facs="tcp:135699:16"/>
+            </div>
+            <div type="statute">
+               <pb n="9" facs="tcp:135699:16"/>
+               <head>Anno 5 Eliz. cap. v. An Act touching Politick Conſtitu<g ref="char:EOLhyphen"/>tions of the Navy.</head>
+               <p>
+                  <hi>THIS Act only provides an En<g ref="char:EOLhyphen"/>couragement for Fiſhing, and for the Tranſportation thereof into <hi>Eng<g ref="char:EOLhyphen"/>land:</hi> And alſo of Corn, and other Na<g ref="char:EOLhyphen"/>tive Commodities, and hinders the Im<g ref="char:EOLhyphen"/>portation of divers Goods into <hi>England,</hi> but no way concerns the Admiralty or Navy, only in theſe <hi>Sections</hi> following:</hi>
+               </p>
+               <p>
+                  <hi>Sect. 27.</hi> Where doubt has bin made whether <hi>18 Hen. 6. cap. 19.</hi> here<g ref="char:EOLhyphen"/>tofore made againſt Soldiers re<g ref="char:EOLhyphen"/>tained departing without Licence from their Captain did extend to Mariners and Gunners; It is <hi>Ena<g ref="char:EOLhyphen"/>cted and Declared,</hi> That the ſaid Sta<g ref="char:EOLhyphen"/>tute of <hi>18. Hen. 6.</hi>
+                  <note place="margin">18 <hi>Hen.</hi> 6. <hi>cap.</hi> 19. extends to Sailers.</note> in all Pains and other Forfeitures, did and doth ex<g ref="char:EOLhyphen"/>tend to every Mariner and Gunner having taken Preſs-Wages to ſerve the Queens Majeſty her Heirs and Succeſſors.</p>
+               <pb n="10" facs="tcp:135699:17"/>
+               <p>
+                  <note place="margin">Juſtices of Peace to de<g ref="char:EOLhyphen"/>termine the Offences.</note>
+                  <hi>¶ Nota: The Puniſhment by the 18th of Hen. VI. is as Felony, and the Juſtices of the Peace have the Power to enquire and determine thoſe Offences.</hi>
+               </p>
+               <p>
+                  <note place="margin">Seamen not to be forced to be Soldiers.</note>
+                  <hi>Sect.</hi> 41. Fiſhermen and Mariners ſhall not be Compelled to ſerve as Soldiers at Land, except it ſhall be to ſerve under any Captain of Ship for Landing to do ſome ſpecial Ex<g ref="char:EOLhyphen"/>ploit, or under any other Perſon hav<g ref="char:EOLhyphen"/>ing Authority to withſtand Invaſion of Enemies.</p>
+               <p>
+                  <note place="margin">Saving of Franchiſes.</note>
+                  <hi>Sect.</hi> 42. This Act not to take away the Liberty, Franchiſes, Fines, Iſſues, Wrecks of the Sea, or any other Lawful Inheritance or Free<g ref="char:EOLhyphen"/>hold of any Perſon Natural or Po<g ref="char:EOLhyphen"/>litick, for or touching any Liberty or Iurisdiction Admiral,<note place="margin">Juriſdiction Admiral.</note> or for Conſer<g ref="char:EOLhyphen"/>vation of any Water.</p>
+               <p>
+                  <note place="margin">The manner of taking Fiſh<g ref="char:EOLhyphen"/>ermen to be Mariners for the King.</note>
+                  <hi>Sect.</hi> 43. That no Fiſhermen to be taken by Commiſſion to ſerve Her Majeſty as a Mariner on the Sea, but the Commiſſion be firſt brought by her Highneſſes Taker to Her Two Iuſtices of Peace next Inhabiting Sea Coaſts, <hi>&amp;c.</hi> where the ſaid Ma<g ref="char:EOLhyphen"/>riners are to be taken, to the intent the Iuſtice may chooſe out, and cauſe to
+<pb facs="tcp:135699:17"/>
+                  <pb facs="tcp:135699:18"/>
+                  <pb n="11" facs="tcp:135699:18"/> be returned ſuch ſufficient number of able Men as in Commiſſion contain<g ref="char:EOLhyphen"/>ed, to ſerve Her Majeſty.</p>
+               <p>
+                  <hi>Proviſo,</hi>
+                  <note place="margin">No greater Authority to Admiral.</note> That this Act ſhall give no greater Authority to Lord High Ad<g ref="char:EOLhyphen"/>miral, or to the Iurisdiction of the Admiralty than had before the mak<g ref="char:EOLhyphen"/>ing of this Statute.</p>
+            </div>
+            <div type="statute">
+               <head>Anno 8 Eliz. cap. v.</head>
+               <p>FOr the avoiding tedious Suits in Civil and Marine Cauſes,<note place="margin">Appeals from Admiralty.</note> All and every ſuch Iudgment and Sentence as ſhall be pronounced up<g ref="char:EOLhyphen"/>on Appeal to be made in Chancery by Commiſſioners under half Seal,<note place="margin">Sentence of Delegates fi<g ref="char:EOLhyphen"/>nal.</note> ſhall be final, and no Appeal to be made from the ſaid Sentence.</p>
+            </div>
+            <div type="statute">
+               <head>Anno 13 Car. II. cap. ix.</head>
+               <p>
+                  <hi>AN Act for the eſtabliſhing Articles and Orders for the Regulating and better Government of His Majeſties Na<g ref="char:EOLhyphen"/>vy, Ships of War, and Forces by Sea.</hi>
+               </p>
+               <p>For Regulating and better Go<g ref="char:EOLhyphen"/>vernment
+<pb n="12" facs="tcp:135699:19"/> of His Majeſties Navies, Ships of War, and Forces by Sea, It is <hi>Enacted,</hi> That all and every the Articles and Orders in this Act men<g ref="char:EOLhyphen"/>tioned, ſhall be only and reſpectively put in Execution and obeyed, <hi>&amp;c.</hi>
+               </p>
+               <p n="1">
+                  <note place="margin">The Publick Worſhip of God.</note>
+                  <hi>I.</hi> That all Commanders, <hi>&amp;c.</hi> ſhall cauſe the Publick Worſhip of Al<g ref="char:EOLhyphen"/>mighty God, according to the Litur<g ref="char:EOLhyphen"/>gy of the Church of <hi>England,</hi> to be ſo<g ref="char:EOLhyphen"/>lemnly and duly performed in their reſpective Ships, and that Prayers and Preaching by their reſpective Chaplains be performed diligently, and the Lord's Day obſerved accord<g ref="char:EOLhyphen"/>ing to Law.</p>
+               <p n="2">
+                  <note place="margin">Swearing and Drunkenneſs.</note>
+                  <hi>II.</hi> Every Perſon in His Majeſties Pay, uſing unlawful and raſh Oaths, Curſings, Execrations, Drunken<g ref="char:EOLhyphen"/>neſs, Vncleanneſs, or other ſcanda<g ref="char:EOLhyphen"/>lous Actions in derogation of God's Honour, and Corruption of Good Manners, ſhall be puniſhed by Fine, Impriſonment or otherwiſe, as Court Marſhal ſhall think fit.</p>
+               <p n="3">
+                  <hi>III.</hi> If any Officer, Mariner, Sol<g ref="char:EOLhyphen"/>dier,<note place="margin">Holding any Foreign In<g ref="char:EOLhyphen"/>telligence.</note> or other Perſon in the Fleet, ſhall give, hold or entertain any In<g ref="char:EOLhyphen"/>telligence to or with any King, Prince or State, being Enemy to,
+<pb facs="tcp:135699:19"/>
+                  <pb facs="tcp:135699:20"/>
+                  <pb n="13" facs="tcp:135699:20"/> or any Perſon in Rebellion againſt His Majeſty, <hi>&amp;c.</hi> without directions or leave from the King's Majeſty, the Lord High Admiral, Vice Admi<g ref="char:EOLhyphen"/>ral, or Commander in Chief of any Squadron, ſuch Perſon or Perſons ſo offending, ſhall be puniſhed with Death.</p>
+               <p n="4">
+                  <hi>IV.</hi>
+                  <note place="margin">Letter or Meſ<g ref="char:EOLhyphen"/>ſage from any Foreign Prince, <hi>&amp;c.</hi> Enemy to the King.</note> If any Letter or Meſſage from any King, Foreign Prince, State or Potentate, being an Enemy to the King's Majeſty, his Heirs and Suc<g ref="char:EOLhyphen"/>ceſſors, or on their behalf be convey<g ref="char:EOLhyphen"/>ed to any inferiour Officer, Mariner or Soldier, or other, in the Fleet, and the ſaid Officer, <hi>&amp;c.</hi> do not with<g ref="char:EOLhyphen"/>in two hours, (having opportunity ſo to do) acquaint the ſuperiour Com<g ref="char:EOLhyphen"/>mander of it; Or if a ſuperiour Of<g ref="char:EOLhyphen"/>ficer or Commander or Mariner be<g ref="char:EOLhyphen"/>ing acquainted therewith by an infe<g ref="char:EOLhyphen"/>riour Officer; Or himſelf in his own Perſon receiving a Letter, or Meſ<g ref="char:EOLhyphen"/>ſage from any ſuch Enemy or Rebel, and ſhall not in convenient time re<g ref="char:EOLhyphen"/>veal the ſame to the Admiral, Vice-Admiral, or the Commander of the Squadron, Every ſuch Perſon ſhall be puniſhed with Death, or ſuch other puniſhment as the Court Marſhal ſhall think fit.</p>
+               <pb n="14" facs="tcp:135699:21"/>
+               <p n="5">
+                  <note place="margin">Relieving of an Enemy.</note>
+                  <hi>V.</hi> No Perſon or Perſons in the Fleet ſhall relieve an Enemy or Re<g ref="char:EOLhyphen"/>bel in the time of War with Money, Victuals, Powder, Shot, Arms, Ammunition, or any other Supplies whatſoever, directly or indirectly, upon Pain of Death, or ſuch Puniſhment as the Court Marſhal ſhall think fit to impoſe.</p>
+               <p n="6">
+                  <note place="margin">Papers, Char<g ref="char:EOLhyphen"/>ter-parties, &amp;c. taken in any Ship as Prize.</note>
+                  <hi>VI.</hi> All the Papers, Charter-Par<g ref="char:EOLhyphen"/>ties, Bills of Lading, Paſſports and other Writings whatſoever, that ſhall be taken, ſeized or found aboard any Ship or Ships which ſhall be ſurprized or ſeized as Prize, ſhall be duly preſerved, and not torn nor made away, but the very Origi<g ref="char:EOLhyphen"/>nals ſent up intirely and without fraud to the Court of Admiralty, or ſuch other Commiſsioners as ſhall be appointed for that purpoſe, there to be viewed, made uſe of and pro<g ref="char:EOLhyphen"/>ceeded upon according to Law, upon Pain of Loſs of all the Shares of the Takers, and ſuch other Puniſhment to be inflicted on the Offender therein as the Quality of the Offence and Misdemeanour ſhall be found to de<g ref="char:EOLhyphen"/>ſerve, and the Court Marſhal ſhall impoſe.</p>
+               <p n="7">
+                  <note place="margin">Ptize Goods, or Goods ſeiz<g ref="char:EOLhyphen"/>ed for Prize.</note>
+                  <hi>VII.</hi> None in His Majeſties Pay ſhall take out of any Prize, or Ship, or Goods ſeized, or for Prize any Mo<g ref="char:EOLhyphen"/>ney,
+<pb facs="tcp:135699:21"/>
+                  <pb facs="tcp:135699:22"/>
+                  <pb n="15" facs="tcp:135699:22"/> Plate, Goods taking, or Tackle before Iudgment thereof firſt paſt in Admiralty Court, but the full and entire account of the whole without Imbezlement ſhall be brought in, and Iudgment paſs intirely upon the whole without Fraud, upon pain of ſuch puniſhment as ſhall be impoſed by a Court Marſhal, or Court of Ad<g ref="char:EOLhyphen"/>miralty, <hi>Excepting,</hi> That it ſhall be lawful for all Captains, Seamen and others, ſerving as aforeſaid, to take and to have to themſelves, as Pil<g ref="char:EOLhyphen"/>lage, without further, or other ac<g ref="char:EOLhyphen"/>count to be given for the ſame, all ſuch Goods and Merchandizes (other than Arms, Ammunition, Tackle,<note place="margin">May take o<g ref="char:EOLhyphen"/>ther Goods on Gun Deck (except Tac<g ref="char:EOLhyphen"/>kle, &amp;c.) as Pillage.</note> Furniture or Stores of ſuch Ship) as ſhall be found by them in any Ship they ſhall Fight or Take as Prize, upon or above the Gun-Deck of the ſaid Ship, and not otherwiſe.</p>
+               <p n="8">
+                  <hi>VIII.</hi> None ſhall imbezle,<note place="margin">Imbezling Ca<g ref="char:EOLhyphen"/>bles, Anchors, &amp;c.</note> ſteal or take away any Cables, Anchors, Sails, or any of the Ships Furni<g ref="char:EOLhyphen"/>ture, or any Powder, or any Arms or Ammunition of the Ship, upon Pain of Death, or other Puniſh<g ref="char:EOLhyphen"/>ment, as the quality of the Offence ſhall be found by a Court Martial.</p>
+               <pb n="16" facs="tcp:135699:23"/>
+               <p n="9">
+                  <note place="margin">Foreign Ships taken as Prize not making Reſiſtance.</note>
+                  <hi>IX.</hi> If any Foreign Ship or Veſſel ſhall be taken as a Prize, that ſhall not Fight or make Reſiſtance, that in that Caſe none of the Captains, Maſters or Mariners, being Foreig<g ref="char:EOLhyphen"/>ners, ſhall be ſtrip'd of their Cloaths, or in any ſort Pillaged, beaten or evilly intreated, upon Pain that the Perſon or Perſons ſo offending ſhall Forfeit double Dammages, but the ſaid Foreign Ships, and all the Goods ſo taken, ſhall be reſerved en<g ref="char:EOLhyphen"/>tire to receive Iudgment in the Ad<g ref="char:EOLhyphen"/>miralty Court according to Right and Iuſtice.</p>
+               <p n="10">
+                  <note place="margin">The Duty of Captains, &amp;c. upon Signal of Fight.</note>
+                  <hi>X.</hi> Every Captain or Commander who upon Signal or Order of Fight or View or Sight of any of the Ships of the Enemy, Pirate or Rebel, or likelihood of Engagement, ſhall not put all things in the Ship in fit poſture for the Fight, And ſhall not in his own Perſon, and according to his Place hearten and encourage the In<g ref="char:EOLhyphen"/>feriour Officers and Common Men to Fight couragiouſly, and not to behave themſelves faintly, ſhall be Caſhier'd, And if he or they ſhall Yield to the Enemy,<note place="margin">Not to Yield, or Cry for Quarter.</note> he or they ſo do<g ref="char:EOLhyphen"/>ing, ſhall ſuffer the Pains of Death, or ſuch other Puniſhment as the Of<g ref="char:EOLhyphen"/>fence ſhall deſerve.</p>
+               <pb facs="tcp:135699:23"/>
+               <pb facs="tcp:135699:24"/>
+               <pb n="17" facs="tcp:135699:24"/>
+               <p n="11">
+                  <hi>XI.</hi>
+                  <note place="margin">All Officers to obſerve the Commands of the Admiral, &amp;c.</note> Every Captain or Comman<g ref="char:EOLhyphen"/>der, or other Officer, Seaman or Soldier, in any Ship, Frigate or Veſſel of War ſhall duly obſerve the Commands of the Admiral, or o<g ref="char:EOLhyphen"/>ther his Superiour or Commander of any Squadron, as well for the aſ<g ref="char:EOLhyphen"/>ſailing or ſetting upon any Fleet, Squadron or Ships of the Enemy, Pirate or Rebel, or joining Battle with them, or making Defence a<g ref="char:EOLhyphen"/>gainſt them, as all other the Com<g ref="char:EOLhyphen"/>mands of the Admiral, or other his ſuperiour Commander, upon Pain to ſuffer Death or other Puniſh<g ref="char:EOLhyphen"/>ment, as the Quality of his Neg<g ref="char:EOLhyphen"/>lect or Offence ſhall deſerve.</p>
+               <p n="12">
+                  <hi>XII.</hi> Every Captain,<note place="margin">Officers that in time of Fight, ſhall not Fight, or withdraw.</note> and all o<g ref="char:EOLhyphen"/>ther Officers, Mariners and Soldi<g ref="char:EOLhyphen"/>ers of every Ship, Frigate or Veſſel of War that ſhall in Time of Fight or Engagement withdraw, keep back, or not come into the Fight, or En<g ref="char:EOLhyphen"/>gage and do his Vtmoſt to kill, take and dammage the Enemy, Pirate and Rebels, and aſſiſt and relieve all and every His Majeſties Ships, ſhall for ſuch Offence or Cowardice, or other diſaffection, be Tryed, and ſuffer Pains of Death, or other Pu<g ref="char:EOLhyphen"/>niſhment,<note place="margin">Penalty.</note> as the circumſtance of ſuch
+<pb n="18" facs="tcp:135699:25"/> Offence ſhall deſerve, and the Court Marſhal judge fit.</p>
+               <p n="13">
+                  <note place="margin">Officers and Ships appoint<g ref="char:EOLhyphen"/>ed for Convoy, their Duty.</note>
+                  <hi>XIII.</hi> The Captains, Officers and Seamen of all Ships appointed for Convoy and Guard of all Merchant Ships, or any other, ſhall diligently attend on that Charge without de<g ref="char:EOLhyphen"/>lay, according to their Inſtructions on that behalf; and whoſoever ſhall be found faulty therein, and ſhall not faithfully perform the ſame, and de<g ref="char:EOLhyphen"/>fend the Ships and Goods in their Convoy, without either diverting to other Parts, or Occaſions, or refu<g ref="char:EOLhyphen"/>ſing or neglecting to Fight in their Defence if they be ſet upon or aſſail<g ref="char:EOLhyphen"/>ed, or running away Cowardly, and ſubmitting thoſe in their Convoy to Hazard and Peril, or ſhall Demand and Exact any Money or other Re<g ref="char:EOLhyphen"/>ward from any Merchant or Maſter for Convoying any ſuch Ships or Veſſels belonging to His Majeſties Subjects, ſhall be Condemned to make Reparation of the Damage to the Merchants, Owners or others, as the Court of Admiralty ſhall ad<g ref="char:EOLhyphen"/>judge, And alſo be puniſhed crimi<g ref="char:EOLhyphen"/>nally, according to the Quality of their Offences, be it by Pain of Death, or other Puniſhment, accord<g ref="char:EOLhyphen"/>ing as ſhall be adjudged fit by Court Marſhal.</p>
+               <pb facs="tcp:135699:25"/>
+               <pb facs="tcp:135699:26"/>
+               <pb n="19" facs="tcp:135699:26"/>
+               <p n="14">
+                  <hi>XIV.</hi>
+                  <note place="margin">Penalty for not chaſing an Enemy, or not relieving a Friend.</note> Whatever Perſon or Per<g ref="char:EOLhyphen"/>ſons in or belonging to the Fleet, ei<g ref="char:EOLhyphen"/>ther through Cowardice, Negligence or Diſaffection, ſhall forbear to pur<g ref="char:EOLhyphen"/>ſue the Chace of any Enemy or Re<g ref="char:EOLhyphen"/>bel, or Pirate, beaten or flying, or ſhall not relieve or aſſiſt a known Friend in View, to the utmoſt of his power, ſhall be puniſhed with Death, or otherwiſe, as a Court Marſhal ſhall find fit.</p>
+               <p n="15">
+                  <hi>XV.</hi> When at any Time,<note place="margin">Service com<g ref="char:EOLhyphen"/>manded, ſhall not be ſtop'd or diſcourag'd</note> Service or Action ſhall be Commanded, no Man ſhall preſume to ſtop, or put backward, or diſcourage the ſaid Ser<g ref="char:EOLhyphen"/>vice and Action by pretence of Ar<g ref="char:EOLhyphen"/>rears of Wages, or upon any pre<g ref="char:EOLhyphen"/>tence of Wages whatſoever, upon pain of Death.</p>
+               <p n="16">
+                  <hi>XVI.</hi> All Sea-Captains,<note place="margin">None ſhall be<g ref="char:EOLhyphen"/>tray their Truſt, or yield to the Enemy.</note> Officers and Seamen that ſhall betray their Truſt, or turn to the Enemy, Pirate or Rebel, and either run away with the Ship or any Ordinance, Ammu<g ref="char:EOLhyphen"/>nition, or Proviſion, to the weaken<g ref="char:EOLhyphen"/>ing of the Service, or yield the ſame to the Enemy, Pirate or Rebels, ſhall be puniſhed with Death.</p>
+               <pb n="20" facs="tcp:135699:27"/>
+               <p n="17">
+                  <note place="margin">Deſerting the Service, or running away, or enticing o<g ref="char:EOLhyphen"/>thers ſo to do.</note>
+                  <hi>XVII.</hi> All Sea-Captains, Officers or Mariners that ſhall Deſert the Service or Imployment in their Ships; or ſhall run away, or entice others ſo to do, ſhall be puniſhed with Death.</p>
+               <p n="18">
+                  <hi>XVIII.</hi> All Perſons whatſoever that ſhall come, or be found in the nature of Spies<note place="margin">Spies.</note> to bring any ſedu<g ref="char:EOLhyphen"/>cing Letters or Meſſages from any Enemy, or Rebel, or ſhall attempt or endeavour to Corrupt any Captain, Officer or Mariner, or other of the Navy or Fleet, to betray his or their Truſt, and Yield up any Ship, Am<g ref="char:EOLhyphen"/>munition,<note place="margin">Their puniſh<g ref="char:EOLhyphen"/>ment.</note> or Men to the Enemy or Rebel ſhall be puniſhed with Death.</p>
+               <p n="19">
+                  <hi>XIX.</hi> No Perſon in or belonging to the Fleet ſhall Vtter any Words of Sedition,<note place="margin">Mutiny, Sedi<g ref="char:EOLhyphen"/>tion.</note> or Mutiny, or endea<g ref="char:EOLhyphen"/>vour to make any Mutinous Aſſem<g ref="char:EOLhyphen"/>blies upon any Pretence whatſoever, upon pain of Death.<note place="margin">Puniſhment.</note>
+               </p>
+               <p n="20">
+                  <note place="margin">Concealers of Traiterous, or Mutinous Pra<g ref="char:EOLhyphen"/>ctices or Words.</note>
+                  <hi>XX.</hi> No Perſon in or belonging to the Fleet ſhall conceal any Trayter<g ref="char:EOLhyphen"/>ous or Mutinous Practices, De<g ref="char:EOLhyphen"/>ſigns or Words, or any Words ſpo<g ref="char:EOLhyphen"/>ken by any to the prejudice of His Majeſty or his Government, or any Words Practices or Deſigns tend<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:135699:27"/>
+                  <pb facs="tcp:135699:28"/>
+                  <pb n="21" facs="tcp:135699:28"/> to the hindrance of the Service, but ſhall forthwith reveal the ſame to his ſuperiour, That a meet Pro<g ref="char:EOLhyphen"/>ceeding may be had thereupon, upon Pain of ſuch Puniſhment<note place="margin">Puniſhment.</note> as a Court Martial ſhall find to be juſt.</p>
+               <p n="21">
+                  <hi>XXI.</hi>
+                  <note place="margin">Quarrelling or ſtriking a ſuperiour Of<g ref="char:EOLhyphen"/>ficer.</note> None ſhall preſume to quar<g ref="char:EOLhyphen"/>rel with his Superiour Officer, up<g ref="char:EOLhyphen"/>on Pain of ſevere Puniſhment, nor to ſtrike any ſuch upon Pain of Death, or otherwiſe, as a Court Martial ſhall find the nature of the matter to deſerve.</p>
+               <p n="22">
+                  <hi>XXII.</hi>
+                  <note place="margin">Unwholeſom<g ref="char:EOLhyphen"/>neſs of Victu<g ref="char:EOLhyphen"/>als.</note> If any of the Fleet find cauſe of Complaint of the unwhole<g ref="char:EOLhyphen"/>ſomeneſs of the Victuals, or upon other juſt grounds, he ſhall quietly make the ſame known to his Supe<g ref="char:EOLhyphen"/>riour, or Captain, or Commander in chief, as the Occaſion ſhall require, That ſuch preſent Remedy may be had as the matter may require, and the ſaid Superiour or Commander is to cauſe the ſame to be preſently remedied accordingly; But no Per<g ref="char:EOLhyphen"/>ſon upon any ſuch or other pretence, ſhall privately ſtir up any diſturbance upon Pain of ſuch ſevere Puniſh<g ref="char:EOLhyphen"/>ment as a Court Martial ſhall think fit to inflict.</p>
+               <pb n="22" facs="tcp:135699:29"/>
+               <p n="23">
+                  <note place="margin">Quarrelling or provoking Speeches.</note>
+                  <hi>XXIII.</hi> None ſhall quarrel or fight in the Ship, nor uſe reproachful or provoking Speeches tending to make any Quarrel or Diſturbance upon Pain of Impriſonment, and ſuch other Puniſhment<note place="margin">Puniſhment.</note> as the Of<g ref="char:EOLhyphen"/>fence ſhall deſerve, and the Court Martial ſhall impoſe.</p>
+               <p n="24">
+                  <note place="margin">Waſtful Ex<g ref="char:EOLhyphen"/>pences of Am<g ref="char:EOLhyphen"/>munition.</note>
+                  <hi>XXIV.</hi> That there be no waſtful Erpence of any Powder, Shot, Am<g ref="char:EOLhyphen"/>munition, or other Stores in the Fleet, nor any Imbezlement thereof, but that the Stores and Proviſions be carefully preſerved, upon ſuch Pe<g ref="char:EOLhyphen"/>nalty by Fine, Impriſonment, or o<g ref="char:EOLhyphen"/>therwiſe, upon the Offendors, Abet<g ref="char:EOLhyphen"/>tors, Buyers and Receivers,<note place="margin">Buyers and Receivers.</note> as ſhall be by a Court Martial found juſt in that behalf.</p>
+               <p n="25">
+                  <note place="margin">Care of Con<g ref="char:EOLhyphen"/>ducting and Steering Ships</note>
+                  <hi>XXV.</hi> That care be taken in the Conducting and Steering of Ships that through wilfulneſs, negligence or other defaults none of His Maje<g ref="char:EOLhyphen"/>ſties Ships be ſtranded or run upon any Rocks or Sands, or ſplit, or ha<g ref="char:EOLhyphen"/>zarded, upon Pain that ſuch as ſhall be found guilty be puniſhed by Fine,<note place="margin">Puniſhment.</note> Impriſonment or otherwiſe, as the Offence by a Court Martial ſhall be Iudged to deſerve.</p>
+               <pb facs="tcp:135699:29"/>
+               <pb facs="tcp:135699:30"/>
+               <pb n="23" facs="tcp:135699:30"/>
+               <p n="26">
+                  <hi>XXVI.</hi>
+                  <note place="margin">Burning Ships &amp;c.</note> All Perſons that ſhall will<g ref="char:EOLhyphen"/>ingly burn or ſet Fire on any Ship or Magazine, or Store of Powder, or Ship, Boat, Ketch, Hoys or Veſ<g ref="char:EOLhyphen"/>ſel, Tackle or Furniture thereto be<g ref="char:EOLhyphen"/>longing, not appertaining to an Ene<g ref="char:EOLhyphen"/>my or Rebel, ſhall be puniſhed with Death.<note place="margin">Death.</note>
+               </p>
+               <p n="27">
+                  <hi>XXVII.</hi>
+                  <note place="margin">Sleeping on Watch.</note> No Man in or belonging to the Fleet ſhall ſleep upon his Watch, or negligently perform the Duty impoſed on him, or forſake his Station, upon Pain of Death, or other Puniſhment<note place="margin">Puniſhment.</note> as the circum<g ref="char:EOLhyphen"/>ſtances of the Caſe ſhall require.</p>
+               <p n="28">
+                  <hi>XXVIII.</hi> All Murthers<note place="margin">Murthers.</note> and wilful killing of any Perſon in the Ship ſhall be puniſhed with Death.</p>
+               <p n="29">
+                  <hi>XXIX.</hi> All Robbery and Theft<note place="margin">Robbery and Theft.</note> committed by any Perſon belong<g ref="char:EOLhyphen"/>ing to or in the Fleet, ſhall be pu<g ref="char:EOLhyphen"/>niſhed with Death or otherwiſe, as the Court Martial upon Conſide<g ref="char:EOLhyphen"/>ration ſhall find meet.<note place="margin">Puniſhment.</note>
+               </p>
+               <p n="30">
+                  <hi>XXX.</hi> No Provoſt Marſhal<note place="margin">Provoſt Mar<g ref="char:EOLhyphen"/>ſhal.</note> be<g ref="char:EOLhyphen"/>longing to the Fleet ſhall refuſe to receive or keep any Priſoner com<g ref="char:EOLhyphen"/>mitted to his Charge,<note place="margin">Priſoners.</note> nor ſuffer him to Eſcape<note place="margin">Eſcape.</note> being once in his
+<pb n="24" facs="tcp:135699:31"/> Cuſtody, nor diſmiſs him without order upon Pain of being liable to the ſame Puniſhment which ſhould have been inflicted on the Party diſ<g ref="char:EOLhyphen"/>miſſed, or permitted to Eſcape, or ſuch other Puniſhment as the Court Martial ſhall think fit.<note place="margin">Puniſhment for Eſcape.</note>
+               </p>
+               <p n="31">
+                  <note place="margin">Captains, &amp;c. apprehending Offenders, &amp;c. to be aſſiſting.</note>
+                  <hi>XXXI.</hi> All Captains, Officers and Seamen ſhall do their Endeavours to detect, apprehend and bring to Puniſhment all Offenders, and ſhall aſſiſt the Officers appointed for that purpoſe therein, upon Pain to be proceeded againſt and puniſhed by the Court Martial at diſcretion.<note place="margin">Puniſhment.</note>
+               </p>
+               <p n="32">
+                  <note place="margin">Sodomy and Buggery,</note>
+                  <hi>XXXII.</hi> If any Perſon or Perſons ſhall commit the un-natural and de<g ref="char:EOLhyphen"/>teſtable Sin of Buggery and So<g ref="char:EOLhyphen"/>domy with Man or Beaſt, he ſhall be puniſhed with Death<note place="margin">Death.</note> without Mercy.</p>
+               <p n="33">
+                  <note place="margin">Where Faults and Miſde<g ref="char:EOLhyphen"/>meanours have no Pu<g ref="char:EOLhyphen"/>niſhment pre<g ref="char:EOLhyphen"/>ſcribed.</note>
+                  <hi>XXXIII.</hi> All other Faults, Misde<g ref="char:EOLhyphen"/>meanors and Diſorders committed at Sea not mentioned in this Act, ſhall be puniſhed according to the Laws and Cuſtoms in ſuch Caſes uſed at Sea.</p>
+               <p n="34">
+                  <note place="margin">Lord Admiral grant Com<g ref="char:EOLhyphen"/>miſſion.</note>
+                  <hi>XXXIV.</hi> The Lord Admiral to have full power to grant Commiſ<g ref="char:EOLhyphen"/>ſions to inferiour Vice-Admirals or Commanders in Chief of any Squa<g ref="char:EOLhyphen"/>dron
+<pb facs="tcp:135699:31"/>
+                  <pb facs="tcp:135699:32"/>
+                  <pb n="25" facs="tcp:135699:32"/> of Ships, to call and aſſemble Court Martials,<note place="margin">Court Mar<g ref="char:EOLhyphen"/>ſhal to conſiſt of Comman<g ref="char:EOLhyphen"/>ders and Cap<g ref="char:EOLhyphen"/>tains.</note> conſiſting of Com<g ref="char:EOLhyphen"/>manders and Captains; and no Court Martial, where the pain of Death ſhall be inflicted, ſhall conſiſt of leſs than 5 Captains at the leaſt, the Admirals Lieutenant to be eſteemed as a Captain;<note place="margin">Five at leaſt where Death,</note> And in no Caſe where Sentence of Death ſhall paſs by Vertue of this Act (Except in Caſe of Mutiny) there ſhall be Execution of Sentence of Death without the leave of the Lord High Admiral if Offence commited within Narrow Seas,<note place="margin">Sentence of Death not to be inflicted without leave of Lord High Admiral. Or of Com<g ref="char:EOLhyphen"/>mander of Squadron.</note> but in Caſe of Offences com<g ref="char:EOLhyphen"/>mitted in any Voiage beyond, where<g ref="char:EOLhyphen"/>upon Sentence of Death, then Ex<g ref="char:EOLhyphen"/>ecution ſhall not be done but by order of Commander in Chief of that Fleet or Squadron wherein Sen<g ref="char:EOLhyphen"/>tence of Death was paſſed.</p>
+               <p n="35">
+                  <hi>XXXV.</hi>
+                  <note place="margin">Judge Advo<g ref="char:EOLhyphen"/>cate to admi<g ref="char:EOLhyphen"/>niſter an Oath</note> That the Iudge Advocate of any Fleet to have power to Admi<g ref="char:EOLhyphen"/>niſter an Oath to any Perſon or Witneſs in order to Examination or Tryal of the aforeſaid Offences, and in the abſence of a Iudge Advo<g ref="char:EOLhyphen"/>cate the Court Marſhal ſhall have full Power and Authority to ap<g ref="char:EOLhyphen"/>point any Perſon to adminiſter an Oath to the purpoſe aforeſaid.<note place="margin">Or Court Marſhal to ap<g ref="char:EOLhyphen"/>point one in abſence of Ad<g ref="char:EOLhyphen"/>vocate.</note>
+               </p>
+               <pb n="26" facs="tcp:135699:33"/>
+               <p n="36">
+                  <note place="margin">Proviſo, touch<g ref="char:EOLhyphen"/>ing Power of Lord High Admiral, &amp;c.</note>
+                  <hi>XXXVI. Proviſo,</hi> that this Act ſhall give no larger Power, <hi>&amp;c.</hi> to the Lord High Admiral, <hi>&amp;c.</hi> than they lawfully had before making of this Act, other than for ſuch of the Offences mentioned and ſpecified in the ſeveral Articles as hereafter ſhall be done in the Main Sea, or in Ships <hi>&amp;c.</hi> being in the Main Stream of Great Rivers only beneath the Bridges of the ſame Rivers near the Sea within the Iurisdiction of the Admiralty, and Committed by ſuch Perſons as ſhall be in actual Pay and ſerve in His Majeſties Fleet and Ships.</p>
+            </div>
+            <div type="statute">
+               <head>Anno 13 &amp; 14 Car. II. cap. xx. An Act for providing of Carriages by Land or by Water for the Uſe of His Majeſties Navy and Ord<g ref="char:EOLhyphen"/>nance.</head>
+               <p>
+                  <note place="margin">How Carria<g ref="char:EOLhyphen"/>ges be provi<g ref="char:EOLhyphen"/>ded for Navy, and Ordnance</note>
+                  <hi>IT is Enacted,</hi> That from and af<g ref="char:EOLhyphen"/>ter the <hi>24th</hi> of <hi>June</hi> 1662, as of<g ref="char:EOLhyphen"/>ten as the Service of His Maje<g ref="char:EOLhyphen"/>ſties Navy or Ordnance ſhall re<g ref="char:EOLhyphen"/>quire any Carriages by Land, upon
+<pb facs="tcp:135699:33"/>
+                  <pb facs="tcp:135699:34"/>
+                  <pb n="27" facs="tcp:135699:34"/> Notice given in Writing by War<g ref="char:EOLhyphen"/>rant under the Hand and Seal of the Lord High Admiral, or under the Hands and Seals of Two or more of His Majeſties Commiſſio<g ref="char:EOLhyphen"/>ners of the Navy, or under Hand and Seal of the Maſter of the Ord<g ref="char:EOLhyphen"/>nance, or Lieutenant of the Ord<g ref="char:EOLhyphen"/>nance for providing Carriages for the Navy or Ordnance, unto Two or more Iuſtices dwelling near the place where the Carriages ſhall be required, the Iuſtices may and ſhall iſſue their Warrants to the ad<g ref="char:EOLhyphen"/>jacent Pariſhes, <hi>&amp;c.</hi> as they ſhall think fit within their reſpective Iu<g ref="char:EOLhyphen"/>riſdictions and Counties not being above Twelve Miles diſtant from the place of Lading for the ſending to a certain place at a certain time to be mentioned in the Warrants, ſuch a number of Carriages with Horſes and Oxen ſufficient for the ſaid Service, as by the ſaid Lord High Admiral,<note place="margin">Lord High Admiral, &amp;c.</note> Commiſſioners of the Navy, or aforeſaid Officers of the Ordnance ſhall be reſpectively re<g ref="char:EOLhyphen"/>quired under their Hands and Seals, the Owners of the reſpective Carri<g ref="char:EOLhyphen"/>ages ſhall receive for every Load of Timber <hi>per</hi> Mile,<note place="margin">Price for Car<g ref="char:EOLhyphen"/>riages.</note> One Shilling for every reputed Mile they ſhall go Loaden, and for other Proviſion the Sum of Eight Pence <hi>per</hi> Mile;
+<pb n="28" facs="tcp:135699:35"/> That it ſhall be lawful for the Lord High Admiral by Warrant under his Hand and Seal,<note place="margin">Preſſing of Ships and Veſ<g ref="char:EOLhyphen"/>ſels for Carri<g ref="char:EOLhyphen"/>age.</note> and for the aforeſaid Principal Officers and Commiſſio<g ref="char:EOLhyphen"/>ners under their Hands and Seals of two or more, as alſo for the Ma<g ref="char:EOLhyphen"/>ſter of the Ordnance, or for the Lieu<g ref="char:EOLhyphen"/>tenant of the Ordnance by Warrant under their Hands and Seals of either of them as often as His Ma<g ref="char:EOLhyphen"/>jeſties Service ſhall require Carri<g ref="char:EOLhyphen"/>age by Water, to appoint ſuch per<g ref="char:EOLhyphen"/>ſon as they ſhall judge fit to impreſs and take up ſuch Ships, Hoys or Veſſels as ſhall be neceſſary for Ac<g ref="char:EOLhyphen"/>commodation of His Majeſties Ser<g ref="char:EOLhyphen"/>vice, the Owners to be Paid by the Tun, as uſually by Merchants, And if the Owners and His Maje<g ref="char:EOLhyphen"/>ſties Officers cannot agree,<note place="margin">The Rates to be paid, and how to be ſet<g ref="char:EOLhyphen"/>tled.</note> Then the Rate to be ſettled by the Bro<g ref="char:EOLhyphen"/>therhood of <hi>Trinity-Houſe.</hi>
+               </p>
+               <p>
+                  <note place="margin">Perſons refuſ<g ref="char:EOLhyphen"/>ing to be pu<g ref="char:EOLhyphen"/>niſhed, and before whom.</note>If any Subject refuſe or neglect, on reaſonable notice, to make Ap<g ref="char:EOLhyphen"/>pearance with ſufficient Carriages, or provide and furniſh Ships or Lighters, <hi>&amp;c.</hi> or ſhall after they have undertaken ſuch ſervice, neglect or delay the ſame, then upon due Proof, Conviction of ſuch neglect and re<g ref="char:EOLhyphen"/>fuſal, by the Oath of the Conſtable or other Officer, or two other credi<g ref="char:EOLhyphen"/>ble Witneſſes before the ſaid Iuſti<g ref="char:EOLhyphen"/>ces
+<pb facs="tcp:135699:35"/>
+                  <pb facs="tcp:135699:36"/>
+                  <pb n="29" facs="tcp:135699:36"/> or Mayor, or other chief Offi<g ref="char:EOLhyphen"/>cer of the City, <hi>&amp;c.</hi> for the Land Carriages: For the Water-Carri<g ref="char:EOLhyphen"/>ages by the Oath of the Perſon ap<g ref="char:EOLhyphen"/>pointed by Lord High Admiral, the Principal Commiſſioners of the Na<g ref="char:EOLhyphen"/>vy, or Maſter, or Lieutenant of the Ordnance, or two Credible Wit<g ref="char:EOLhyphen"/>neſſes before the Officers and Com<g ref="char:EOLhyphen"/>miſſioners of His Majeſties Na<g ref="char:EOLhyphen"/>vy, or Maſter, or Lieutenant of the Ordnance ſhall for every refuſal for<g ref="char:EOLhyphen"/>feit the Sum of 20 <hi>s.</hi> for the Land Carriage, and for the Water Car<g ref="char:EOLhyphen"/>riage Treble the Freight of ſuch Ship, <hi>&amp;c.</hi> not exceeding 50 <hi>l.</hi> in the whole, To be forthwith Levied in default of Payment to His Maje<g ref="char:EOLhyphen"/>ſties Vſe by Warrant under the Hand of the aforeſaid reſpective Of<g ref="char:EOLhyphen"/>ficers before whom Proof and Con<g ref="char:EOLhyphen"/>viction (by diſtreſs) rendring the Overplus, if any.</p>
+               <p>
+                  <hi>Provided,</hi> That no Horſes,<note place="margin">Continuance in ſervice.</note> 
+                  <hi>&amp;c.</hi> ſhall be inforced to Travel more days Iourney from the Place they receive their Lading than expreſſed in Iuſti<g ref="char:EOLhyphen"/>ces Warrant, And that ready pay<g ref="char:EOLhyphen"/>ment ſhall be made at the Place of Lading, without delay,<note place="margin">Preſent Pay<g ref="char:EOLhyphen"/>ment.</note> according to the aforeſaid Rates.</p>
+               <p>
+                  <hi>Provided,</hi>
+                  <note place="margin">No Gifts or Reward to be taken to ſpare any one.</note> That in Caſe any Iu<g ref="char:EOLhyphen"/>ſtice, chief Officer, Conſtable or Perſon by Lord High Admiral,
+<pb n="30" facs="tcp:135699:37"/> Commiſſioners of the Navy, and Officers of the Ordnance reſpective<g ref="char:EOLhyphen"/>ly, ſhall take any Gift or Reward to ſpare any Perſon, or ſhall inju<g ref="char:EOLhyphen"/>riouſly charge any Perſon through Envy, <hi>&amp;c.</hi> who ought not to make ſuch Carriages,<note place="margin">No more Car<g ref="char:EOLhyphen"/>riages, &amp;c. to be taken than neceſſary.</note> or ſhall Impreſs more Carriages than neceſſary, or ſhall be commanded by his ſuperiour Officer, upon conviction ſhall forfeit 10 <hi>l.</hi> to the Party grieved, to be ſu<g ref="char:EOLhyphen"/>ed for in His Maieſties Court of Record, No Eſſoigne or Protection to be allowed, And in caſe any Per<g ref="char:EOLhyphen"/>ſon ſhall take upon him to Impreſs any Horſes,<note place="margin">No Perſon to Impreſs, other than Autho<g ref="char:EOLhyphen"/>rized in this Act.</note> 
+                  <hi>&amp;c.</hi> Ships, Hoys, <hi>&amp;c.</hi> other than the Perſons impower'd as aforeſaid, upon Conviction ſhall ſuffer Puniſhment in <hi>Stat.</hi> 12 <hi>Car. II. cap.</hi> 24.<note place="margin">Penalty 12 Car. II. cap. 24</note> which ordains Commitment by Iuſtices of Offender, and Treble Coſts and Dammages to Party grieved.</p>
+               <p>
+                  <note place="margin">Ships exempt<g ref="char:EOLhyphen"/>ed.</note>Ships and Veſſels Freighted by Charter-Party, <hi>bona Fide,</hi> if other Ships in Port fitting for Service, or any Veſſel laden with any Goods outward-bound, ſhall not be liable to Impreſs for any the Services afore<g ref="char:EOLhyphen"/>ſaid.</p>
+               <p>
+                  <note place="margin">Continuance of the Act.</note>This Act to be in Force until the end of next Seſſion of Parliament, Revived for Seven Years <hi>per Statut. Anno</hi> 1 <hi>Jac. II. &amp;</hi> 4 <hi>Will. &amp; Mar.</hi> Inha<g ref="char:EOLhyphen"/>bitants
+<pb facs="tcp:135699:37"/>
+                  <pb facs="tcp:135699:38"/>
+                  <pb n="31" facs="tcp:135699:38"/> of <hi>New Foreſt</hi> of <hi>Southamp<g ref="char:EOLhyphen"/>ton</hi> may be allowed 4 <hi>d.</hi> for every Mile, for ſo many Miles as their Carriages ſhall go empty to Place of Lading.</p>
+            </div>
+            <div type="statute">
+               <head>Anno 16 Car. II. cap. v. An Act to prevent the diſturbances of Seamen and others: And to preſerve the Stores belonging to His Majeſties Navy Royal.</head>
+               <p n="1">
+                  <hi>I.</hi> REcites divers Fightings,<note place="margin">Recitals of di<g ref="char:EOLhyphen"/>ſturbances in the Navy, Yards, &amp;c.</note> Quar<g ref="char:EOLhyphen"/>rels, <hi>&amp;c.</hi> do often happen in His Majeſties Yards, Offices, <hi>&amp;c.</hi> belonging to the Navy, and frequent diſorders happen in the Office of the Treaſury of the Navy in Pay-Days in <hi>London, &amp;c.</hi> either by the Turbu<g ref="char:EOLhyphen"/>lency of Seamen, or Rudeneſs of Officers when queſtioned by the Commiſſioners about the Imbezle<g ref="char:EOLhyphen"/>ment of Stores, Proviſions, <hi>&amp;c.</hi>
+               </p>
+               <p n="2">
+                  <hi>II. It is Enacted,</hi>
+                  <note place="margin">Who may pu<g ref="char:EOLhyphen"/>niſh Offenders</note> That the Treaſu<g ref="char:EOLhyphen"/>rer, Comptroller, Surveyor, Clerk of the Accounts, and the Commiſſi<g ref="char:EOLhyphen"/>oners of the Navy for the time be<g ref="char:EOLhyphen"/>ing, or any Two or more of them, have Power to Examine all ſuch
+<pb n="32" facs="tcp:135699:39"/> Offendors, or Perſons, whom they upon their Inquiry or Examination, or in view in their Preſence ſhall find hereafter to make, or have made any Diſturbance, Fighting or Quar<g ref="char:EOLhyphen"/>relling in the Yards or Offices a<g ref="char:EOLhyphen"/>foreſaid on Pay-Days, or on other Occaſions relating to the Naval Services, as followeth, <hi>viz.</hi> They or any Two of them may puniſh any of the ſaid Offences by Fine,<note place="margin">Puniſhment.</note> Impriſonment, or either of them, the Fine not exceeding 20 <hi>s.</hi> and the Impriſonment not exceeding one Week, and have power to Commit to next Goal, or to Meſſenger at<g ref="char:EOLhyphen"/>tending on them.</p>
+               <p n="3">
+                  <note place="margin">Power to diſ<g ref="char:EOLhyphen"/>charge Fine, &amp;c.</note>
+                  <hi>III.</hi> The Commiſſioners or the greater part then preſent, have pow<g ref="char:EOLhyphen"/>er to diſcharge the ſaid Fine or Im<g ref="char:EOLhyphen"/>priſonment, if they ſhall think fit, and for non payment to impriſon the Party offending till Paid;<note place="margin">To Impriſon for non-pay<g ref="char:EOLhyphen"/>ment. Proceedings on Oath.</note> To be Paid to the uſe of the <hi>Cheſt at Chat<g ref="char:EOLhyphen"/>ham,</hi> the Proceedings to be on Oath.</p>
+               <p n="4">
+                  <note place="margin">Binding to good Behavi<g ref="char:EOLhyphen"/>our.</note>
+                  <hi>IV.</hi> That the Officers or any Two of them (in caſe of need for greater Example) may bind to the Good Be<g ref="char:EOLhyphen"/>haviour, with or without Securities, as Occaſion ſhall be.</p>
+               <pb facs="tcp:135699:39"/>
+               <pb facs="tcp:135699:40"/>
+               <pb n="33" facs="tcp:135699:40"/>
+               <p n="5">
+                  <hi>V.</hi>
+                  <note place="margin">Imbezling Stores.</note> Whereas His Majeſties Stores, <hi>&amp;c.</hi> belonging to the Navy are imbezled or filched away.</p>
+               <p>
+                  <hi>It is Enacted,</hi>
+                  <note place="margin">Commiſſio<g ref="char:EOLhyphen"/>ners Power as to Imbezling King's Stores.</note> That the Principal Commiſſioners or Treaſurers, or any Two, or more, by Warrant un<g ref="char:EOLhyphen"/>der their Hands and Seals, have power in like manner to enquire and ſearch for the ſame in all places, as Iuſtices of the Peace may do in Ca<g ref="char:EOLhyphen"/>ſes of Felony, and puniſh the Of<g ref="char:EOLhyphen"/>fenders by ſuch Fine and Impriſon<g ref="char:EOLhyphen"/>ment as aforeſaid, and cauſe the Goods to be brought in again: If Offence be of ſuch Nature as to re<g ref="char:EOLhyphen"/>quire higher Puniſhment, Then that they or any Two or more of them may commit Offendor to Goal, or to the Cuſtody of their Meſſenger till the Offendor enter into Recog<g ref="char:EOLhyphen"/>nizance with Sureties according to the Nature of the Offence, to ap<g ref="char:EOLhyphen"/>pear and anſwer the ſame in the Ex<g ref="char:EOLhyphen"/>chequer or other Court where His Majeſty ſhall queſtion him or them for the ſame within one Year next.</p>
+               <p>The Commiſſioners or any Two of them may put in Execution this Act in all places where they hold Offices for the King,<note place="margin">Power of Commiſſio<g ref="char:EOLhyphen"/>ners within Liberties.</note> as well within the Li<g ref="char:EOLhyphen"/>berties, as without, This Act to
+<pb n="34" facs="tcp:135699:41"/> continue from the firſt of <hi>June</hi> 1664 for Two Years, continued <hi>per Statut.</hi> 19 <hi>Car. II. cap. vii.</hi>
+               </p>
+            </div>
+            <div type="statute">
+               <head>Anno 16 Car. II. cap. vi. An Act to prevent the Delivering Up of Merchant Ships, and for the better Encouragement of Cap<g ref="char:EOLhyphen"/>tains, <hi>&amp;c.</hi> to defend their Ships.</head>
+               <p>
+                  <note place="margin">Sect. 10. Incourage<g ref="char:EOLhyphen"/>ment for ſai<g ref="char:EOLhyphen"/>lers defending Merchant Ships.</note>
+                  <hi>IT is Enacted,</hi> That when any <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Ship ſhall have been defend<g ref="char:EOLhyphen"/>ed by Fight, and brought to her de<g ref="char:EOLhyphen"/>ſigned Ports, in which Fight any of the Officers or Seamen ſhall be wounded, It ſhall be lawful for Iudge of the Admiralty, <hi>&amp;c.</hi> at her return, to call before him the Adven<g ref="char:EOLhyphen"/>turers or Owners of the Ships and Goods ſo defended, and by advice with them to levy and raiſe ſuch ſums as himſelf ſhall think reaſonable, not exceeding 2 <hi>per Cent.</hi> of the prime Coſt, and to diſtribute the ſame with the conſent of Three of the Owners, to the Captain, Officers and Sai<g ref="char:EOLhyphen"/>lers of the ſaid Ship, and Widows and Children of Parties ſlain, the Act to continue for Three Years, con<g ref="char:EOLhyphen"/>tinued <hi>per Statut.</hi> 22 <hi>Car. II. cap. xi.</hi>
+               </p>
+               <pb facs="tcp:135699:41"/>
+               <pb facs="tcp:135699:42"/>
+            </div>
+            <div type="statute">
+               <pb n="35" facs="tcp:135699:42"/>
+               <head>Anno 19 Car. II. cap. vii. An Act to prevent Diſturbances of Seamen and others, and to pre<g ref="char:EOLhyphen"/>ſerve the Stores belonging to His Majeſties Navy Royal.</head>
+               <p>
+                  <hi>THE ſame as the Statut.</hi> 16 <hi>Car. II.</hi>
+                  <note place="margin">Sect. 6. Encourage<g ref="char:EOLhyphen"/>ment for Ma<g ref="char:EOLhyphen"/>riners, &amp;c. Ordinary, &amp;c. to take but 12 d. for Pro<g ref="char:EOLhyphen"/>bate, Will, &amp;c.</note> 
+                  <hi>cap. v. and further Enacts,</hi> That for better encouragement of Mari<g ref="char:EOLhyphen"/>ners <hi>&amp;c.</hi> Serving in His Majeſties Fleet <hi>&amp;c.</hi> No Ordinary, Regiſter <hi>&amp;c.</hi> ſhall take or receive of the Exe<g ref="char:EOLhyphen"/>cutor or Adminiſtrator, dying in the pay of His Majeſties Navy above the Sum of 12 <hi>d.</hi> for the Probate of any Will or granting Adminiſtration or any matter Relating to ſame, upon Forfeiture of 10 <hi>l.</hi> to Party griev<g ref="char:EOLhyphen"/>ed, <hi>altered and repealed by Statut.</hi> 22. <hi>&amp;</hi> 23 <hi>Car. II. cap.</hi> 2. <hi>reviv'd.</hi>
+               </p>
+               <p>This Act to continue Two Years,<note place="margin">Sect. 7.</note> 
+                  <hi>but afterward reviv'd per Statut.</hi> 22 <hi>&amp;</hi> 23 <hi>Car II. cap. xxiii.</hi>
+               </p>
+            </div>
+            <div type="statute">
+               <pb n="36" facs="tcp:135699:43"/>
+               <head>Anno 22 Car. II. cap. v. An Act for the taking away the bene<g ref="char:EOLhyphen"/>fit of Clergy from ſuch as ſteal Cloth from the Rack, and from ſuch as ſhall Steal or Imbezzle His Majeſties Ammunition and Stores.</head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sect. </seg>2</label> WHereas by an Act made 31 <hi>Eliz.</hi> It is amongſt other things <hi>E<g ref="char:EOLhyphen"/>nacted,</hi>
+                  <note place="margin">31 Eliz. cap. 4. Imbezlement of Munition, and Habili<g ref="char:EOLhyphen"/>ments of War.</note> That if any Perſon having the Charge or Cuſtody of any Armour, Ordnance, Munition, Shot, Powder or Habilments of War belonging to the Queen <hi>&amp;c.</hi> Or if any Victuals pro<g ref="char:EOLhyphen"/>vided for the Victualing of any Sol<g ref="char:EOLhyphen"/>diers, Gunners, Mariners or Pio<g ref="char:EOLhyphen"/>neers, ſhall for any Lucre or Gain, or willingly, <hi>&amp;c.</hi> Imbezle, Purloyn or convey away any the ſame Armour, Ordnance, Munition, Shot or Pow<g ref="char:EOLhyphen"/>der Habilment of War or Victuals, to the Value of 20 <hi>s.</hi> at one or ſeveral times, the Offence ſhall be Iudged Felony,<note place="margin">Felony.</note> And the Offendor to ſuffer as in Caſe of Felony.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Sect. </seg>3</label> 
+                  <hi>It is Enacted,</hi> That no Perſon who ſhall from and after the 25th May 1670,<note place="margin">Imbezlers, &amp;c. hindred from Clergy.</note> be Indicted for any Offence Commited againſt the ſaid recited Act or ſhall Feloniouſly ſteal or im<g ref="char:EOLhyphen"/>bezle any of His Majeſties Sayles
+<pb facs="tcp:135699:43"/>
+                  <pb facs="tcp:135699:44"/>
+                  <pb n="37" facs="tcp:135699:44"/> Cordage or any other of His Maje<g ref="char:EOLhyphen"/>ſties Naval Stores to the Value of Twenty Shillings and thereof ſhall be Convicted by Iury ſhall not have benefit of Clergy.</p>
+            </div>
+            <div type="statute">
+               <head>Anno 22 &amp; 23 Car. II. cap. v. An Act to revive an Act to prevent the diſturbance of Seamen and o<g ref="char:EOLhyphen"/>thers, and to preſerve the Stores belonging to His Majeſties Navy Royal, with ſome Alterations and Additions. Recital of the Act made 19 Car. II. cap. 7.</head>
+               <p>
+                  <hi>REcital,</hi>
+                  <note place="margin">Stat. 19 Car. II cap. 7.</note> That the ſaid Statute is found uſeful, <hi>It's Enacted,</hi> That all the ſaid Act (excepting the Clauſe about Adminiſtrations and Probates of Wills, <hi>&amp;c.</hi>) ſhall have full force of an Act during the continuance of this Act.</p>
+               <p>
+                  <hi>Recites,</hi>
+                  <note place="margin">Perſons carry<g ref="char:EOLhyphen"/>ing Naval Goods.</note> That whereas ill diſpoſed Perſons upon pretence of carrying His Majeſties Naval Goods Pro<g ref="char:EOLhyphen"/>viſions <hi>&amp;c.</hi> from His Majeſties Yards Wharfes <hi>&amp;c.</hi> to His Maje<g ref="char:EOLhyphen"/>ſties Ships or ſuch Perſons as are imployed to re-carry or remove from the ſaid Ships ſuch Naval Goods
+<pb n="38" facs="tcp:135699:45"/> Proviſion <hi>&amp;c.</hi> to His Majeſties Yards Wharfes <hi>&amp;c.</hi> do frequently imbezle ſteal and carry them away where they cannot be found and re<g ref="char:EOLhyphen"/>move themſelves to Places unkown before they can be convict thereof by reaſon the Witneſſes that ſhould prove the Fact are bound forth to Sea, or otherwiſe imployed.</p>
+               <p>
+                  <note place="margin">No Perſon to imbezle Kings Stores.</note>That Iuſtice may be more ſpeedily done, <hi>It is Enacted,</hi> That the Trea<g ref="char:EOLhyphen"/>ſurer, Comptroller, Surveyor, Clerk of the Accounts, and Commiſſio<g ref="char:EOLhyphen"/>ners of the Navy, or any one or more of them, where the Value of the Goods ſo imbezled, taken or car<g ref="char:EOLhyphen"/>ried away ſhall be under the Value of Twenty Shillings, ſhall have power on the Oath of Two or more Witneſſes or Confeſſion of Party offending, to Convict him, and by Writing under his or their Hands and Seals,<note place="margin">Power to Con<g ref="char:EOLhyphen"/>vict, Fine.</note> to impoſe ſuch Fine or Fines on Perſons offending and Convicted as aforeſaid, as to any one of them ſhall ſeem meet (the ſaid Fine or Fines not exceeding double the Value of the ſaid Naval Goods ſo imbezled or carried away) the Fine to be levied by Diſtreſs by Warrant of him or them that ſhall Convict the Offendor, in caſe of no Goods to Commit the Party offending by
+<pb facs="tcp:135699:45"/>
+                  <pb facs="tcp:135699:46"/>
+                  <pb n="39" facs="tcp:135699:46"/> Warrant under his or their Hands before whom Convicted,<note place="margin">For want of Diſtreſs to impriſon.</note> to Impriſon in the next Goal for any time not exceeding Three Months without Bail or Mainprize.</p>
+               <p>That the ſaid Treaſurer,<note place="margin">Power to en<g ref="char:EOLhyphen"/>ter into any Ship in Day time and Search for Goods.</note> Comp<g ref="char:EOLhyphen"/>troller, <hi>&amp;c.</hi> or any one or more of them, upon Oath of Two or more Credible Witneſſes teſtifying that His Majeſties Goods, Stores and Naval Proviſions are conveyed into any Ship whatſoever, and mention<g ref="char:EOLhyphen"/>ing the Name of any ſuch Ship be<g ref="char:EOLhyphen"/>ing at Anchor, and not ready to Sail that Tyde within any of the Roads, Creeks, <hi>&amp;c.</hi> within His Majeſties Dominions, any Perſon by their Warrant,<note place="margin">Warrant, the manner of it.</note> in which Warrant the Quantity or Qualities of ſuch Goods ſhall be ſpecified, thereunto authori<g ref="char:EOLhyphen"/>zed in the Day time in Preſence of any known Officer of the Admiral<g ref="char:EOLhyphen"/>ty,<note place="margin">In Preſence of known Offi<g ref="char:EOLhyphen"/>cer of Admi<g ref="char:EOLhyphen"/>ralty.</note> ſhall have full power to go on Board any ſuch Ships, <hi>&amp;c.</hi> being within the places aforeſaid, and in Caſe of Reſiſtance and Refuſal to be made on Demand, to enter and break open the Hatches and Cabbins or other Places of the Ship,<note place="margin">Break open Hatches, &amp;c.</note> and Search therein for any ſuch Stores, Ammunition, <hi>&amp;c.</hi> or any other Na<g ref="char:EOLhyphen"/>val Goods belonging to the Navy, which have been imbezled and taken
+<pb n="40" facs="tcp:135699:47"/> away, And the ſame to Seize and carry into His Majeſties Stores, to be applied to the King's Vſe, unleſs the Officers and Commiſſioners of the Navy, upon hearing the matter, ſhall find they were unduly ſeized, and thereupon reſtore them to Party claiming, and reſerves liberty to the Party griev<g ref="char:EOLhyphen"/>ed with the Iudgment of Commiſ<g ref="char:EOLhyphen"/>ſioners to take his Remedy for the ſaid Goods ſo Seized by due Courſe of Law.<note place="margin">Remedy to Party griev'd.</note>
+               </p>
+               <p>
+                  <note place="margin">No Perſon to Perſonate any Seaman, &amp;c. in the Pre<g ref="char:EOLhyphen"/>ſence of any Commiſſio<g ref="char:EOLhyphen"/>ners, &amp;c. of Navy, in or<g ref="char:EOLhyphen"/>der to receive Money.</note>Whatſoever Perſon ſhall be diſ<g ref="char:EOLhyphen"/>covered fraudulently to perſonate any Seaman, Soldier, Artificer or Workman aforeſaid in the Preſence of any of His Majeſties Commiſſi<g ref="char:EOLhyphen"/>oners aforeſaid, or in Preſence of Pay-Maſter or Caſhier of His Na<g ref="char:EOLhyphen"/>vy, in order to receive any Money due from His Majeſty to the Sea<g ref="char:EOLhyphen"/>man, Soldier, <hi>&amp;c.</hi> aforeſaid, the Per<g ref="char:EOLhyphen"/>ſon offending may be immediately Committed to Priſon by any the Principal Officers and Commiſſio<g ref="char:EOLhyphen"/>ners until he or they find Bayl to anſwer the ſame at next Aſſizes or Quarter Seſſions, And being there<g ref="char:EOLhyphen"/>of Convicted, ſhall Forfeit Double the Sum he would by ſuch Fraud have gained, to the Governour of the <hi>Cheſt at Chatham,</hi>
+                  <note place="margin">Puniſhment.</note> for the uſe of
+<pb facs="tcp:135699:47"/>
+                  <pb facs="tcp:135699:48"/>
+                  <pb n="41" facs="tcp:135699:48"/> the uſe of the Poor there, and ſuffer Impriſonment not exceeding a Year.</p>
+               <p>Every Perſon who ſhall Coun<g ref="char:EOLhyphen"/>terfeit the Hands of the Treaſurer,<note place="margin">None to coun<g ref="char:EOLhyphen"/>terfeit Hands of Treaſurer, &amp;c.</note> Comptroller, Surveyor, Clerk of the Acts, or of the Commiſſio<g ref="char:EOLhyphen"/>ners of the Navy, or the Hand or Hands of any other Signing or Vouching Officers of His Majeſties Navy, Ships or Yards, or of any of them, to any Bill, Ticket, or other Power, by vertue whereof the Naval Treaſure is or may be diſpoſed of, and ſhall knowingly produce any ſuch counterfeit Bill, Ticket, or other Paper may be Committed to Priſon by the ſaid Officers or Commiſſio<g ref="char:EOLhyphen"/>ners until he find Suretys to ap<g ref="char:EOLhyphen"/>pear at next Aſſizes,<note place="margin">Commit to Goal.</note> or Quarter Seſſions for the County where com<g ref="char:EOLhyphen"/>mitted, there to be proceeded againſt according to Law.</p>
+               <p>That it ſhall and may be lawful to and for the ſaid Treaſurer,<note place="margin">Power given to adminiſter Oaths.</note> Comp<g ref="char:EOLhyphen"/>troller, Surveyor, Clerk of the Acts, and the Commiſſioners of the Navy, or any one of them, to admi<g ref="char:EOLhyphen"/>niſter Oaths in any Caſe relating, to the receiving, keeping, iſſuing and accounting for any part of His Ma<g ref="char:EOLhyphen"/>jeſties Treaſure, Victuals, Stores or Proviſions of the Navy, or for the preſervation of due Order and Diſcipline therein in all matters cog<g ref="char:EOLhyphen"/>nizable
+<pb n="42" facs="tcp:135699:49"/> by the ſaid Officers and Commiſſioners.</p>
+               <p>
+                  <note place="margin">General Li<g ref="char:EOLhyphen"/>berty given to execute their power.</note>That the ſaid Treaſurer, Comp<g ref="char:EOLhyphen"/>troller, <hi>&amp;c.</hi> and Commiſſioners of the Navy, and every one of them, may execute all the powers given by this Act on all Offendors in all pla<g ref="char:EOLhyphen"/>ces, as well within Liberties as without.</p>
+               <p>
+                  <note place="margin">But 5 s. to be taken for Pro<g ref="char:EOLhyphen"/>bate, Will, &amp;c.</note>That no Ordinary, Regiſter or other Officer belonging to Eccleſi<g ref="char:EOLhyphen"/>aſtical Court or Courts of Orphans, or any Iurisdiction whatſoever, ſhall take of the Executor or Adminiſtra<g ref="char:EOLhyphen"/>tor (being Wife, Child or Children, or next of Kindred of any Mari<g ref="char:EOLhyphen"/>ner, &amp;c.) Except where Party decea<g ref="char:EOLhyphen"/>ſed leave an Eſtate of 20 l. or more) dying in the Pay of His Majeſties Navy,<note place="margin">Of an Eſtate not exceeding 20 l.</note> above the ſum of Five Shil<g ref="char:EOLhyphen"/>lings for the whole Charges of the Probate of any Will, Regiſtring the ſame, Granting of her Letters of Adminiſtration, &amp;c. or doing any matter relating thereto Every Of<g ref="char:EOLhyphen"/>ficer performing his Duty in the ſaid Probate to have his proportion,<note place="margin">Officers not performing Duty.</note> If any ſuch Officer preſume to take more than Five Shillings for the whole Probate of the Will, or ſhall wilfully delay the doing the premiſes, the Perſon ſo offending ſhall forfeit 10 <hi>l.</hi>
+                  <note place="margin">Forfeit 10 l.</note> to Party grieved to be recove<g ref="char:EOLhyphen"/>red by Action of Debt in His Maje<g ref="char:EOLhyphen"/>ſties
+<pb facs="tcp:135699:49"/>
+                  <pb facs="tcp:135699:50"/>
+                  <pb n="43" facs="tcp:135699:50"/> Courts at <hi>Weſtminſter,</hi> and there no Eſſoigne or Protection, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Provided,</hi> that no Clauſe, <hi>&amp;c.</hi> in <milestone type="tcpmilestone" unit="unspecified" n="11"/> this Act contained ſhall repeal, alter or change any the Clauſes or things ſpecified in one Act of Parliament 22 <hi>Car. II. cap. v.</hi>
+               </p>
+               <p>This Act to extend to Lord High <milestone type="tcpmilestone" unit="unspecified" n="12"/> Admiral.</p>
+               <p>
+                  <hi>Provided</hi> That all the Powers hereby given to any Officer or Com<g ref="char:EOLhyphen"/>miſſioner of the Navy may be exer<g ref="char:EOLhyphen"/>ciſed by Lord High Admiral for time being.</p>
+               <p>
+                  <hi>Provided</hi> That no Offendor puniſht <milestone type="tcpmilestone" unit="unspecified" n="13"/> by this Act ſhall be puniſht in any o<g ref="char:EOLhyphen"/>ther manner for the ſame Offence.<note place="margin">Offence not to be twice pu<g ref="char:EOLhyphen"/>niſhed.</note>
+               </p>
+               <p>This Act to continue Seven <milestone type="tcpmilestone" unit="unspecified" n="14"/> Years from the Firſt Day of <hi>June</hi> 1671.<note place="margin">Continuance of the Act.</note> and from thence to the end of the next Seſſion of Parliament.</p>
+               <p>
+                  <hi>Nota: This Act is continued for Se<g ref="char:EOLhyphen"/>ven Years longer, per Statut. 1 Jac. II. Intituled, An Act for continuance of ſeveral Acts of Parliament therein mentioned, and the ſame Act of Con<g ref="char:EOLhyphen"/>tinuance Enlarged per Statut 4 &amp; 5 Will. &amp; Mar. from the 13th of Febr.
+<pb n="44" facs="tcp:135699:51"/> 1692, for the ſpace of Seven Years, and from thence to the end of the next Seſſion of Parliament.</hi>
+               </p>
+            </div>
+            <div type="statute">
+               <head>Anno 1 Will. &amp; Mar. An Act for the abrogating the Oaths of Supremacy and Allegiance, and appointing other Oaths.</head>
+               <p>
+                  <note place="margin">Sect. 10. Workmen and Warrant Offi<g ref="char:EOLhyphen"/>cers in the Fleet.</note>
+                  <hi>IT's Enacted,</hi> That all and every Commiſſion-Officer, and non-Commiſſion or Warrant Officers that are already employed in Their Majeſties Service by Sea or Land, ſhall take the Oaths appointed by this Statute, and alſo make repeat and ſubſcribe the Declaration made in the Statute 30 <hi>Car. II.</hi> before the Lord High Admiral or Commiſſio<g ref="char:EOLhyphen"/>ners of the Admiralty,<note place="margin">To take Oaths before Admi<g ref="char:EOLhyphen"/>ral.</note> or ſuch other perſons as Their Majeſties ſhall ap<g ref="char:EOLhyphen"/>point to adminiſter and accept the ſame reſpectively, And that all and every ſuch Perſons as ſhall hereaf<g ref="char:EOLhyphen"/>ter be put into any Imployment ei<g ref="char:EOLhyphen"/>ther by Sea or Land,<note place="margin">Perſons here<g ref="char:EOLhyphen"/>after to be Of<g ref="char:EOLhyphen"/>ficers to take Oaths, &amp;c.</note> ſhall before the delivery of ſuch Commiſſion or Warrant to ſuch Officer take the ſaid Oaths, and make, repeat and ſubſcribe before the Lord High Admi<g ref="char:EOLhyphen"/>ral
+<pb facs="tcp:135699:51"/>
+                  <pb facs="tcp:135699:52"/>
+                  <pb n="45" facs="tcp:135699:52"/> or Commiſſioners of the Admi<g ref="char:EOLhyphen"/>ralty, or their Deputies as afore<g ref="char:EOLhyphen"/>ſaid, or ſuch Perſons who ſhall iſſue ſuch Warrant or Commiſſion, or ſuch other Perſon as ſhall be autho<g ref="char:EOLhyphen"/>rized to adminiſter the ſame as afore<g ref="char:EOLhyphen"/>ſaid reſpectively, who are authorized to adminiſter and receive tender and accept the ſame. And all Officers that ſhall refuſe to take the ſaid Oaths, and make and Subſcribe the ſaid Declaration,<note place="margin">Refuſal inca<g ref="char:EOLhyphen"/>pable.</note> ſhall be incapable of receiving, taking or holding ſuch Office or Imployment.</p>
+               <p>The Form of the Oath.</p>
+               <p>The Form of the Declaration.</p>
+            </div>
+            <div type="statute">
+               <pb n="46" facs="tcp:135699:53"/>
+               <head>Anno 2 Will. &amp; Mar. An Act concerning the Commiſſio<g ref="char:EOLhyphen"/>ners of the Admiralty.</head>
+               <p>
+                  <note place="margin">Commiſſio<g ref="char:EOLhyphen"/>ners of Admi<g ref="char:EOLhyphen"/>ralty.</note>
+                  <hi>REcites</hi> Whereas the Office of Lord High Admiral of <hi>England</hi> has bin exerciſed by divers Commiſ<g ref="char:EOLhyphen"/>ſioners appointed by Their Maje<g ref="char:EOLhyphen"/>ſties and the late Kings, and doubt hath been whether certain Authori<g ref="char:EOLhyphen"/>ties belonging to the Office of Lord High Admiral may or ought to have been exerciſed by ſuch Commiſſio<g ref="char:EOLhyphen"/>ners. Now for avoiding all doubts, <hi>Be it Declared and Enacted,</hi>
+                  <note place="margin">Commiſſio<g ref="char:EOLhyphen"/>ners to have ſuch Powers as Lord High Admiral.</note> That all and ſingular Authorities, Iuriſ<g ref="char:EOLhyphen"/>dictions and Powers which by any Act of Parliament or otherwiſe have been and are lawfully veſted in Lord High Admiral have always apper<g ref="char:EOLhyphen"/>tained to and of Right might have been, and might and ſhall be had, uſed and enjoyed by Commiſſioners for Executing the Office of the Ad<g ref="char:EOLhyphen"/>miral.</p>
+               <p>
+                  <note place="margin">Not give lar<g ref="char:EOLhyphen"/>ger Power than Lord High Admiral</note>
+                  <hi>Proviſo,</hi> That nothing in this Act give any other Power to Commiſſi<g ref="char:EOLhyphen"/>oners,
+<pb facs="tcp:135699:53"/>
+                  <pb facs="tcp:135699:54"/>
+                  <pb n="47" facs="tcp:135699:54"/> 
+                  <hi>&amp;c.</hi> than Lord High Admiral lawfully had.</p>
+               <p>
+                  <hi>Proviſo,</hi>
+                  <note place="margin">Officers of Court Martial to take Oath.</note> That upon Tryals Of<g ref="char:EOLhyphen"/>fenders by Court Marſhal by ver<g ref="char:EOLhyphen"/>tue of any Commiſſion by Lord High Admiral or Commiſſioners of Admiralty, Every Officer preſent ſhall before proceeding to Tryal take an Oath before the Court in theſe Words following:</p>
+               <p>
+                  <hi>You ſhall Well and Truly Try and Determine the Matter now be<g ref="char:EOLhyphen"/>fore you,</hi>
+                  <note place="margin">Form of Oath.</note> 
+                  <hi>between our Sovereign Lord and Lady the King and Queen's Majeſty, and the Priſoners now to be Try'd.</hi>
+               </p>
+            </div>
+            <div type="statute">
+               <head>Anno 4 &amp; 5 Will. &amp; Mar. An Act for continuing the Acts for Prohibiting all Trade and Com<g ref="char:EOLhyphen"/>merce with <hi>France,</hi> and for the Encouragement of Privateers.</head>
+               <p>
+                  <hi>REcites Two former Acts</hi> 1 <hi>W. &amp; M. And Enacts</hi> To continue Three Years from the end of the Seſſion
+<pb n="48" facs="tcp:135699:55"/> of Parliament, and to the end of the then next Seſſion of Parliament.</p>
+               <p>
+                  <note place="margin">Sect. II.</note>
+                  <hi>Recites</hi> It to be neceſſary to encou<g ref="char:EOLhyphen"/>rage the ſetting out private Ships of War, ſo as under the pretence of taking Prize no Evil-minded Per<g ref="char:EOLhyphen"/>ſons ſhould carry on a Trade with <hi>France, It is Enacted,</hi> That all Ships and Veſſels with their Ladings, and all Goods and Merchandizes that ſhall be taken and ſeized as Prize,<note place="margin">Prize to be brought into Port without breaking Bulk into Hands of Commiſſio<g ref="char:EOLhyphen"/>ners.</note> either by Their Majeſties Ships, or by any Privateers or otherwiſe, ſhall be Imported and brought into ſome of the Ports of this Kingdom, and immediately, without breaking Bulk, be put into the hands of Commiſ<g ref="char:EOLhyphen"/>ſioners for Prizes, or their Officers, who together with Two or more per<g ref="char:EOLhyphen"/>ſons, as the Officers or Mariners of the reſpective Ships ſhall intruſt, as alſo ſuch perſons as the Commiſ<g ref="char:EOLhyphen"/>ſioners of the Cuſtoms ſhall appoint, are to take care and preſerve the ſame from Imbezlement until the ſame be adjudged lawful Prize,<note place="margin">To preſerve from imbezle<g ref="char:EOLhyphen"/>ment.</note> Ex<g ref="char:EOLhyphen"/>cept where it ſhall appear to Iudge of the Admiralty that the Goods ta<g ref="char:EOLhyphen"/>ken are periſhable,<note place="margin">If Goods per<g ref="char:EOLhyphen"/>iſhable, may be ſold.</note> in which Caſe the Iudge ſhall take Bayl for ſuch Goods in order to Sale, as before the mak<g ref="char:EOLhyphen"/>ing this Act, yet ſo as to be ſubject to the Diſtribution by this Act dire<g ref="char:EOLhyphen"/>cted.</p>
+               <pb facs="tcp:135699:55"/>
+               <pb facs="tcp:135699:56"/>
+               <pb n="49" facs="tcp:135699:56"/>
+               <p n="3">
+                  <hi>III.</hi>
+                  <note place="margin">Prize Goods after condem<g ref="char:EOLhyphen"/>nation to be Entred and Landed in Port.</note> That notwithſtanding former Acts, if Goods and Merchandizes by them Prohibited to be Imported into this Kingdom ſhall be, <hi>bona Fide,</hi> without Fraud taken as Prize by any private Ship of War, or by any of His Majeſties Ships, and ſhall be adjudged Prize, It ſhall be lawful for Commiſſioners of Prizes or their Agents, ſo ſoon as may be after ad<g ref="char:EOLhyphen"/>judged Prize, to cauſe the ſame to be Entred and Landed, and to be brought into His Majeſties Ware-houſe of ſuch Port where ſuch Goods, <hi>&amp;c.</hi> are Imported, there to remain until Sold, as hereafter directed.</p>
+               <p n="4">
+                  <hi>IV.</hi>
+                  <note place="margin">Prize Goods to be ſold by Inch of Can<g ref="char:EOLhyphen"/>dle.</note> That as ſoon as may be after the ſaid Goods ſhall be adjudg'd Prize and Landed as aforeſaid, the ſame ſhall be by Commiſſioners of Prizes, or their Officers, in the pre<g ref="char:EOLhyphen"/>ſence of ſuch Perſons as ſhall be in<g ref="char:EOLhyphen"/>truſted by ſuch Ships of War, pub<g ref="char:EOLhyphen"/>lickly and openly Sold by Inch of Candle (Publick Notice being firſt given at the Market Croſs) Four<g ref="char:EOLhyphen"/>teen days,<note place="margin">Publick No<g ref="char:EOLhyphen"/>tice of Sale to be given.</note> or other moſt Publick Place of the ſaid Port, as alſo upon the <hi>Exchange</hi> in the Port of <hi>London,</hi> of the Quantity and Quality of Goods, <hi>&amp;c.</hi> to be Sold, and of the Time and Place of Sale.</p>
+               <pb n="50" facs="tcp:135699:57"/>
+               <p n="5">
+                  <note place="margin">Diviſion of the Prize in Caſe taken by Privateer.</note>
+                  <hi>V.</hi> Out of the Proceed of ſuch Sale, the Subſidy of Tunnage and Poundage, and all other Duties and Impoſitions payable to Their Majeſties for ſuch Goods, <hi>&amp;c.</hi> ſhall be deducted and anſwered to Their Majeſties, and the Neat Proceed of the ſaid Sale, after ſuch deductions, in Caſe ſuch Prize was taken by pri<g ref="char:EOLhyphen"/>vate Man of War,<note place="margin">How the Car<g ref="char:EOLhyphen"/>go to be di<g ref="char:EOLhyphen"/>vided.</note> ſhall be divided into Five Parts, of which Four Parts ſhall be anſwered and Paid to the Perſon intereſſed in the ſaid Privateer which took the Prize, the other Fifth Part to His Majeſty, And in Caſe any ſuch Prize taken by Private Man of War,<note place="margin">How the Ship to be diſpoſed of.</note> the Ship or Veſſel ſo ſurprized or taken as Prize, and all the Arms and Ammu<g ref="char:EOLhyphen"/>nition, Tackle, <hi>&amp;c.</hi> and Furniture thereof, ſhall be had, enjoyed by the Perſon intereſſed in the Privateer which took the ſaid Ship, And in Caſe ſuch Prize was taken by His Majeſties Ships,<note place="margin">How diſtribu<g ref="char:EOLhyphen"/>ted in Caſe Prize taken by King's Ship.</note> the ſaid Neat Pro<g ref="char:EOLhyphen"/>ceed after Sale as aforeſaid, and ſuch Deductions as aforeſaid, to be divi<g ref="char:EOLhyphen"/>ded into Three equal Parts, One Third to the Captain, Mariners and Seamen ſurpriſing the ſaid Prize, to be diſtributed according to the uſual Cuſtom on ſuch Declara<g ref="char:EOLhyphen"/>tion as Their Majeſties ſhall make
+<pb facs="tcp:135699:57"/>
+                  <pb facs="tcp:135699:58"/>
+                  <pb n="51" facs="tcp:135699:58"/> in that behalf, <hi>Provided,</hi> That one Third Part ſhall be divided among the Ships Crew, One Third to the Treaſurer of His Majeſties Navy, for the Relief of Sick and Wound<g ref="char:EOLhyphen"/>ed Seamen, and the Widows and Children and impotent Parents of Perſons then in His Majeſties Ser<g ref="char:EOLhyphen"/>vice at Sea, the other Third Part to the Vſe of Their Majeſties, And in Caſe the ſaid Prize was taken by any Merchants Ships imployed in King's Service,<note place="margin">How diſtribu<g ref="char:EOLhyphen"/>ted if taken by Merchant Ship in King's Service.</note> Then the Neat Proceed after ſuch Sale as aforeſaid, ſuch Deductions, Cuſtoms as afore<g ref="char:EOLhyphen"/>ſaid, ſhall be divided in Three Parts, One Third to the Captain, Officers and Seamen Surpriſing and Tak<g ref="char:EOLhyphen"/>ing the ſame, One Third to the Vſe of Their Majeſties, One Third to the Treaſurer of the Navy for the Purpoſes aforeſaid.</p>
+               <p n="6">
+                  <hi>VI. Provided,</hi>
+                  <note place="margin">Imbezlement of Prize-Goods.</note> That if any Cap<g ref="char:EOLhyphen"/>tain or other Officers, <hi>&amp;c.</hi> who ſhall take ſuch Prize, ſhall imbezle, pur<g ref="char:EOLhyphen"/>loyne, conceal or convey away, or put on Shoar any part of the Goods in any place whatſoever, other than His Majeſties Warehouſes of the ſaid Ports, the Party offending ſhall forfeit and looſe the whole Share and Benefit of the Prize which o<g ref="char:EOLhyphen"/>therwiſe he might have had,<note place="margin">Puniſhment and Forfei<g ref="char:EOLhyphen"/>ture.</note> and up<g ref="char:EOLhyphen"/>on
+<pb n="52" facs="tcp:135699:59"/> Proof thereof upon Oath by one or more Witneſſes before the Com<g ref="char:EOLhyphen"/>miſſioners of the Cuſtoms in the Port of <hi>London</hi> (if ſuch Goods were Imbezled or put on Shoar in the ſaid Port) before the Chief Magiſtrate of the Peace in preſence of the Chief Officer of the Port in any other Port where the ſaid Goods ſhall be Imported,<note place="margin">Who to deter<g ref="char:EOLhyphen"/>mine.</note> who are to Hear and De<g ref="char:EOLhyphen"/>termine the ſame, One Moiety of the ſaid Goods to be to the Infor<g ref="char:EOLhyphen"/>mer,<note place="margin">Informer to have half.</note> and ſhall be delivered to him by Warrant of the ſaid Commiſſio<g ref="char:EOLhyphen"/>ners of the Cuſtoms of the Port of <hi>London,</hi> or of the Chief Magiſtrate of the Place, Signed and Sealed in the Preſence of the Chief Officer of the Cuſtoms in ſuch Port reſpect<g ref="char:EOLhyphen"/>ively, and the other Moyety to the King.</p>
+               <p n="7">
+                  <note place="margin">Perſons inter<g ref="char:EOLhyphen"/>eſſed may ſee the Accounts.</note>
+                  <hi>VII.</hi> Any Perſon concerned in any Prize may at ſeaſonable times be permitted to ſee the Accounts of any Prize that they may be ſatisfied whether the Shares have been right<g ref="char:EOLhyphen"/>fully diſtributed. And the Commiſ<g ref="char:EOLhyphen"/>ſioners for Prizes, and their Offi<g ref="char:EOLhyphen"/>cers, are required to ſhew unto ſuch Perſons ſuch Accounts for their Peruſal,<note place="margin">Fee 1 s. for ſhewing Ac<g ref="char:EOLhyphen"/>counts.</note> and to take no Fee or Re<g ref="char:EOLhyphen"/>ward for the ſame more than one Shilling.</p>
+               <pb facs="tcp:135699:59"/>
+               <pb facs="tcp:135699:60"/>
+               <pb n="53" facs="tcp:135699:60"/>
+               <p n="8">
+                  <hi>VIII.</hi>
+                  <note place="margin">Ships and Goods of <hi>French</hi> King taken by Pri<g ref="char:EOLhyphen"/>vateers by col<g ref="char:EOLhyphen"/>luſion.</note> In caſe any Ship laden with Goods of the growth of the Domi<g ref="char:EOLhyphen"/>nion of the <hi>French</hi> King ſhall be ta<g ref="char:EOLhyphen"/>ken by any Privateer by conſent, or clandeſtinely, or by colluſion, ſuch Ship, <hi>&amp;c.</hi> and alſo the Ship, <hi>&amp;c.</hi> of the Privateer, ſhall upon Proof thereof to be made in the <hi>Exchequer,</hi> or <hi>Admiralty Court,</hi> be judged to be good Prize to Their Majeſties, One Moiety to Their Majeſties, and the other Moiety to the Diſcoverer,<note place="margin">Puniſhment.</note> and the Bond given by the Captain is declared forfeited, And in Caſe ſuch Ship,<note place="margin">Ships, &amp;c. of <hi>French</hi> King's Dominions taken by Man of War.</note> 
+                  <hi>&amp;c.</hi> ſhall be taken by any Man of War, through conſent, colluſion, <hi>&amp;c.</hi> ſuch Commander or Captain ſhall Forfeit 1000 <hi>l.</hi> One Moiety to the King, the other Moiety to the Diſcoverer, to be recovered by Acti<g ref="char:EOLhyphen"/>on of Debt, or Information in any of His Majeſties Courts of Re<g ref="char:EOLhyphen"/>cord, and no Protection,<note place="margin">Puniſhment and forfeiture.</note> 
+                  <hi>&amp;c.</hi> to be allowed, And ſuch Captain or Officer to forfeit his Imployment under Their Majeſties for Seven Years, and the ſaid Ship and Goods ad<g ref="char:EOLhyphen"/>judg'd good Prize to the King.</p>
+               <p n="9">
+                  <hi>IX. Proviſo,</hi>
+                  <note place="margin">Tenth of Prize taken by Men of War.</note> In all Caſes where Prize ſhall not be taken by Priva<g ref="char:EOLhyphen"/>teer, One Tenth part thereof after ſuch Sale and Deduction of His
+<pb n="54" facs="tcp:135699:61"/> Majeſties Cuſtoms, <hi>&amp;c.</hi> ſhall be paid as aforeſaid, and before any Diviſi<g ref="char:EOLhyphen"/>on of the Proceed thereof as afore<g ref="char:EOLhyphen"/>ſaid ſhall be Paid to the Treaſurer of the Navy,<note place="margin">Paid to Trea<g ref="char:EOLhyphen"/>ſurer of Navy</note> and kept apart by the ſaid Treaſurer, and ſhall be diſpoſed of by Warrant of Commiſſioners of the Admiralty,<note place="margin">Commiſſio<g ref="char:EOLhyphen"/>ners of Admi<g ref="char:EOLhyphen"/>ralty to diſ<g ref="char:EOLhyphen"/>poſe of for Medals, &amp;c.</note> or Lord High Admi<g ref="char:EOLhyphen"/>ral for Medals and other Rewards for Officers, Mariners and Seamen in the King's Service at Sea, who ſhall have done extraordinary Ser<g ref="char:EOLhyphen"/>vice.</p>
+               <p n="10">
+                  <note place="margin">Encourage<g ref="char:EOLhyphen"/>ment to Men of War and Privateers to take Ships of Force.</note>
+                  <hi>X.</hi> For better Encouragement of Officers and Seamen to annoy the Enemy, and to take and annoy Ships of War and of Force belong<g ref="char:EOLhyphen"/>ing to the Enemy, <hi>It's Enacted,</hi> In caſe any of the King's Ships of War or Privateer ſhall take in Fight as Prize, or ſhall Sink, Fire, or by any other means deſtroy any Ship of War or Privateer belong<g ref="char:EOLhyphen"/>ing to the <hi>French</hi> King or his Sub<g ref="char:EOLhyphen"/>jects, or in their Service, they ſhall have a Reward for ſuch Ship of War taken or deſtroyed, Ten Pounds for each piece of Ordnance in any Ship, to be paid by the Com<g ref="char:EOLhyphen"/>miſſioners of Prizes out of His Ma<g ref="char:EOLhyphen"/>jeſties ſhare of Prizes.</p>
+               <pb facs="tcp:135699:61"/>
+               <pb facs="tcp:135699:62"/>
+               <pb n="55" facs="tcp:135699:62"/>
+               <p n="11">
+                  <hi>XI.</hi> If Commiſſioners of Prizes ſhall not pay or give Bills payable out of the firſt Money comes to their hands to the perſon intereſſed in ſuch private Man of War,<note place="margin">Penalty on Commiſſio<g ref="char:EOLhyphen"/>ners of Prize not paying Reward.</note> for the reward of Ten Pounds a Gun by the ſpace of three days after it ought to be paid, demand thereof made, free of all Charges and Deductions, the Commiſſioners are made incapable of any Office for the future.</p>
+               <p n="12">
+                  <hi>XII.</hi> That the Shares,<note place="margin">The Rewards given by this Act to be in full of all ſhares.</note> Proporti<g ref="char:EOLhyphen"/>ons and Rewards given by this Act to the reſpective Officers and Sea<g ref="char:EOLhyphen"/>men ſhall be in lieu and full ſatisfa<g ref="char:EOLhyphen"/>ction of all Shares and Prizes taken this preſent War, Any thing made in the Act 13 <hi>Car. II. cap.</hi> 9. or any Declaration or Order of Their Majeſties to the contrary.</p>
+               <p n="13">
+                  <hi>XIII.</hi> If any Captain or Officer,<note place="margin">Imbezlement of Money, Plate and Goods.</note> or any other perſon by his Direction or Commiſſion, or any Seaman or Soldier ſerving in the Navy, or in any Privateer, ſhall imbezle any Money, Plate, Goods, Tackle or other things upon or above the Gun-Deck, or any other part or place whatſoever, in any Ship taken Prize, or retaken from the Enemy,<note place="margin">Forfeiture.</note> the Party offending ſhall loſe the Share,
+<pb n="56" facs="tcp:135699:63"/> 
+                  <hi>&amp;c.</hi> to him allowed by this Act. And in Caſe he be an Officer he ſhall for<g ref="char:EOLhyphen"/>feit the ſum of 500 <hi>l.</hi> (whereof one moiety to the King the other to the Informer to be recovered in any of His Majeſties Courts of Record at <hi>Weſtminſter,</hi>
+                  <note place="margin">In Caſe an Officer 500 l. Forfeiture.</note> and therein no Protecti<g ref="char:EOLhyphen"/>on <hi>&amp;c.</hi> to be allowed) for every ſuch Offence, and ſuch Officer to be inca<g ref="char:EOLhyphen"/>pable of any Office or place under Their Majeſties for Seven Years,<note place="margin">Incapable of an Office for Seven Years.</note> It being the True intent of this Act that all Goods upon or above the Gun Deck and elſewhere ſhall in all places be preſerved entire from Im<g ref="char:EOLhyphen"/>bezlements and ſhall not be pillag<g ref="char:EOLhyphen"/>ed in any Caſe whatſoever.</p>
+               <p n="14">
+                  <note place="margin">Ships taken in Streights and Mediterrane<g ref="char:EOLhyphen"/>an.</note>
+                  <hi>XIV. Provided,</hi> That where any Ship ſhall be taken as Prize in the <hi>Mediterranean</hi> Sea, or within the <hi>Streights</hi> of <hi>Gibralter,</hi> It ſhall be Lawful for Captains to Carry ſuch Prize into <hi>Port</hi> of <hi>Allicant</hi> or <hi>Cadiz</hi> in <hi>Spain</hi> or to the Port of <hi>Meſſina</hi> in <hi>Sici<g ref="char:EOLhyphen"/>ly,</hi> or the Port of <hi>Naples</hi> and to put the ſame into the hands and poſſeſſion of perſons authorized to receive and preſerve the ſame by His Majeſty, there to remain, to be kept without Imbezlement until Condemned or Cleared by Court of Admiralty of <hi>England,</hi> ſuch Captors being obli<g ref="char:EOLhyphen"/>ged with all ſpeed to tranſmit the O<g ref="char:EOLhyphen"/>riginal
+<pb facs="tcp:135699:63"/>
+                  <pb facs="tcp:135699:64"/>
+                  <pb n="57" facs="tcp:135699:64"/> Papers taken in ſuch Ships or authentick Copies.</p>
+               <p n="15">
+                  <hi>XV.</hi>
+                  <note place="margin">Ships taken in Weſt-Indies and America.</note> Where Ship ſhall be taken as Prize in <hi>weſt Indies</hi> or <hi>America,</hi> the Captors to carry into any of His Majeſties Ports in any of His Ma<g ref="char:EOLhyphen"/>jeſties Plantations, and put the ſame in poſſeſſion of Chief Gover<g ref="char:EOLhyphen"/>nour, there to remain and be kept as aforeſaid, until Condemned and Diſcharged by ſuch perſons as ſhall be lawfully commiſſioned in that be<g ref="char:EOLhyphen"/>half.</p>
+               <p n="16">
+                  <hi>XVI.</hi>
+                  <note place="margin">Prizes taken in Eaſt Indies.</note> In caſe any Ship or Veſſel ſhall be taken as Prize in the <hi>Eaſt Indies</hi> or any place beyond the <hi>Cape of Good Hope,</hi> It ſhall be lawful to Car<g ref="char:EOLhyphen"/>ry ſuch Ship to any Port of an <hi>En<g ref="char:EOLhyphen"/>gliſh</hi> Factory and put the ſame into poſſeſſion of the Governour or Chief Perſon of ſuch Factory to be preſer<g ref="char:EOLhyphen"/>ved as aforeſaid until Condemnati<g ref="char:EOLhyphen"/>on by ſuch Perſons as ſhall be law<g ref="char:EOLhyphen"/>fully Commiſſioned in that behalf.</p>
+               <p n="17">
+                  <hi>XVII.</hi>
+                  <note place="margin">Privateers ta<g ref="char:EOLhyphen"/>king Prizes where no French Goods.</note> Where any Ships ſhall be taken by any Privateer in which Ship there ſhall be no Goods of the Growth of the <hi>French</hi> Kings Domi<g ref="char:EOLhyphen"/>nions and the ſame ſhall appear up<g ref="char:EOLhyphen"/>on Landing upon due proof thereof made, That then after Lawful Con<g ref="char:EOLhyphen"/>demnation
+<pb n="58" facs="tcp:135699:65"/> of ſuch Prize and Pay<g ref="char:EOLhyphen"/>ment of Cuſtomes and other Duties to His Majeſty, the Perſon intereſſ<g ref="char:EOLhyphen"/>ed in ſuch Privateer ſhall have the ſaid Ship and Goods <hi>&amp;c.</hi> without Deductions for tenths or any other proportion to His Majeſty or the Lord High Admiral.<note place="margin">To have the whole with<g ref="char:EOLhyphen"/>out any de<g ref="char:EOLhyphen"/>duction for Tenths.</note>
+               </p>
+               <p n="18">
+                  <note place="margin">Where Priva<g ref="char:EOLhyphen"/>teers take Prizes in Ports</note>
+                  <hi>XVIII.</hi> For preventing Abuſes practiſed by Privateers pretending to take as Prizes Ships or Veſſels within His Majeſties Ports, Rivers, <hi>&amp;c. It is Enacted,</hi> That where any Ship, <hi>&amp;c.</hi> ſhall be taken within any Their Majeſties Ports,<note place="margin">The Prizes to belong to His Majeſty.</note> 
+                  <hi>&amp;c.</hi> by any Privateer, ſuch Prize ſhall belong wholly to His Majeſty as Perqui<g ref="char:EOLhyphen"/>ſite of the Admiralty, And the Cap<g ref="char:EOLhyphen"/>tors to have ſuch part and proporti<g ref="char:EOLhyphen"/>on thereof only as Their Majeſties ſhall think fit.</p>
+               <p n="19">
+                  <note place="margin">Ships taken of King's Sub<g ref="char:EOLhyphen"/>jects, retaken.</note>
+                  <hi>XIX. Proviſo,</hi> That if any Ship, <hi>&amp;c.</hi> taken as Prize or any Goods therein ſhall appear and be proved in the Court of Admiralty to be be<g ref="char:EOLhyphen"/>longing to Their Majeſties Sub<g ref="char:EOLhyphen"/>jects of Their Three Kingdoms or Territories thereunto belonging continuing in His Majeſties Obedi<g ref="char:EOLhyphen"/>ence, which were before taken as Prize by the Subjects of the <hi>French</hi> King, and re-taken by Their Maje<g ref="char:EOLhyphen"/>ſties
+<pb facs="tcp:135699:65"/>
+                  <pb facs="tcp:135699:66"/>
+                  <pb n="59" facs="tcp:135699:66"/> Ships of War or other Ship under His Majeſties Obedience and Protection, That then ſuch Ships, <hi>&amp;c.</hi> and ſuch Goods therein found to belong to Their Majeſties Sub<g ref="char:EOLhyphen"/>jects, ſhall by Decree of the Court of Admiralty be adjudged to be re<g ref="char:EOLhyphen"/>ſtored to ſuch former Owners,<note place="margin">To be reſto<g ref="char:EOLhyphen"/>red to the Owners.</note> they paying in lieu of Salvage, if taken by any of Their Majeſties Ships an Eighth Part of the true Value of the Ships,<note place="margin">An eighth part inſtead of Salvage to be paid.</note> 
+                  <hi>&amp;c.</hi> and Goods reſpective<g ref="char:EOLhyphen"/>ly to be reſtored, which Salvage ſhall be paid to the Captain, <hi>&amp;c.</hi> in the ſaid Man of War, to be divided as before directed, touching the ſhare of Prizes belonging to the Cap<g ref="char:EOLhyphen"/>tains, Officers and Seamen where Prizes are taken by Men of War, And if taken by Privateer or other Ship,<note place="margin">Retaken Ship by Privateer.</note> 
+                  <hi>&amp;c.</hi> having been in the poſſeſ<g ref="char:EOLhyphen"/>ſion of the Enemy 24 Hours, and under 48 a fifth part; And if above 48, and under 96 a third part there<g ref="char:EOLhyphen"/>of; and if above 96 a Moiety there<g ref="char:EOLhyphen"/>of, All which Payments to be made without deductions; And if ſuch Ship ſo retaken ſhall appear to have been (after the Taking by the Ene<g ref="char:EOLhyphen"/>my) by them ſet forth as a Man of War, the former Owners, <hi>&amp;c.</hi> to whom the ſame ſhall be reſtored, ſhall pay the full Moyety of the true Va<g ref="char:EOLhyphen"/>lue without any deduction.</p>
+               <pb n="60" facs="tcp:135699:67"/>
+               <p n="20">
+                  <note place="margin">Privateer ta<g ref="char:EOLhyphen"/>king Veſſel laden with Wooll.</note>
+                  <hi>XX.</hi> In Caſe during the continu<g ref="char:EOLhyphen"/>ance of this Act any Privateer Veſ<g ref="char:EOLhyphen"/>ſel laden with Wool, or whereupon any Wool is laden with intent to Tranſport the ſame, be taken by any Privateer, or Man of War, on due Proof thereof or Tryal in the <hi>Exche<g ref="char:EOLhyphen"/>quer,</hi> the Perſons intereſſed in Pri<g ref="char:EOLhyphen"/>vateer, ſhall have to their own uſe, one full Moiety of the Veſſel and Goods, the other Moiety to the King.</p>
+               <p n="21">
+                  <note place="margin">Admiralty to give this Act in their In<g ref="char:EOLhyphen"/>ſtructions to Officers of King's Ships and Priva<g ref="char:EOLhyphen"/>teers.</note>
+                  <hi>XXI.</hi> To prevent Ignorance of this Act by any Captains, <hi>&amp;c.</hi> ſerving in His Majeſties Ships or Priva<g ref="char:EOLhyphen"/>teers, Lord High Admiral, or Com<g ref="char:EOLhyphen"/>miſſioners of the Admiralty, are re<g ref="char:EOLhyphen"/>quired to expreſs all things by this Act directed to be obſerved concern<g ref="char:EOLhyphen"/>ing Prizes, and the Shares, Pro<g ref="char:EOLhyphen"/>portions and Reward of and for the ſame in the Inſtructions by them to be given during the continuance of this Act, to all Captains and Com<g ref="char:EOLhyphen"/>manders of the King's Ships, or any Privateer by them authorized during that Time.</p>
+               <pb facs="tcp:135699:67"/>
+               <pb facs="tcp:135699:68"/>
+               <pb n="61" facs="tcp:135699:68"/>
+               <p n="22">
+                  <hi>XXII. Laſtly, a Proviſo,</hi>
+                  <note place="margin">Commiſſio<g ref="char:EOLhyphen"/>ners detaining Money to be paid to Priva<g ref="char:EOLhyphen"/>teers.</note> That if Commiſſioners of Prizes, or Com<g ref="char:EOLhyphen"/>miſſioners of Cuſtoms ſhall detain in their hands the Shares and Pro<g ref="char:EOLhyphen"/>portions belonging to the perſons intereſſed in Privateers 2 days after the ſame ought to be paid by this Act, and demand thereof made, free of all Fees and Charges whatſoe<g ref="char:EOLhyphen"/>ver except Warehouſe-Room, and 2 <hi>per Cent.</hi> for all other Charges,<note place="margin">To forfeit double the Sum detain'd.</note> The perſon offending to forfeit dou<g ref="char:EOLhyphen"/>ble the Sum, to be recovered by Action of Debt with Coſt of Suit, And no Protection, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="statute">
+               <head>Anno 5 &amp; 6 Will. &amp; Mar. &amp;c. An Act for the better Diſcipline of His Majeſties Navy Royal.</head>
+               <p>
+                  <hi>REcites,</hi>
+                  <note place="margin">Preamble. The Court of King's Bench, or Commiſſio<g ref="char:EOLhyphen"/>ners of Oyer and Terminer may Try all Offences in the Act 13 Car. II.</note> 
+                  <hi>For the regulating and better Government of Their Majeſties Na<g ref="char:EOLhyphen"/>vys and Ships of War, and Forces by Sea.</hi>
+               </p>
+               <p>That all Offences contrary to an Act made in the Thirteenth Year of King <hi>Charles the Second,</hi> Entituled, <hi>An Act for the Eſtabliſhing Articles and
+<pb n="62" facs="tcp:135699:69"/> Orders for the Regulating and better Government of His Majeſties Navies, Ships of War, and Forces by Sea,</hi> which ſhall be committed after the 24th of <hi>June</hi> 1694. may be Proſecuted and Determined in Their Majeſties Court of <hi>King's Bench</hi> at <hi>Weſtminſter,</hi> or before Iuſtices of <hi>Oyer</hi> and <hi>Ter<g ref="char:EOLhyphen"/>miner,</hi> to be Conſtituted by Their Majeſties Commiſſion.</p>
+               <p>
+                  <note place="margin">Power to the Courts to act.</note>And the ſaid Courts are impower<g ref="char:EOLhyphen"/>ed to hold Connuſance thereof by Information or Indictment, and to proceed upon, Hear and Determine the ſame according to the Courſe of the Common Law, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <note place="margin">Offences done out of the Realm to be laid in any County in the Realm.</note>And where any of the Offences be committed out of the Realm, in ſuch Caſe the ſame may be alledged and laid in any County within this Realm.</p>
+               <p>
+                  <note place="margin">Proviſo, That no Perſon Tryed by a Court Mar<g ref="char:EOLhyphen"/>ſhal, to be Tryed, &amp;c. Proviſo.</note>
+                  <hi>Proviſo,</hi> That no Perſon who ſhall be Tryed by a Court Marſhal for the ſame Offence, be Tryed by ver<g ref="char:EOLhyphen"/>tue of this Act, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Proviſo,</hi> That this Act ſhall conti<g ref="char:EOLhyphen"/>nue in force for Three Years, and from thence to the end of the next Seſſion of Parliament.</p>
+               <pb facs="tcp:135699:69"/>
+               <pb facs="tcp:135699:70"/>
+            </div>
+            <div type="statute">
+               <pb n="63" facs="tcp:135699:70"/>
+               <head>Anno 7 &amp; 8 Will. An Act for the Encreaſe and En<g ref="char:EOLhyphen"/>couragement of Seamen, &amp;c.</head>
+               <p>
+                  <hi>FOraſmuch as the Strength and Safety of His Majeſties Dominions do much depend on the ſupplying His Royal Navy with a competent number of able Seamen which may be ready at all times for that Service.</hi>
+                  <note place="margin">Preamble.</note>
+               </p>
+               <p>To Invite great Numbers of His Majeſties Subjects to betake them<g ref="char:EOLhyphen"/>ſelves to Sea, It is fit ſome pro<g ref="char:EOLhyphen"/>viſion ſhould be made that Seamen who by Age, Wounds, or other Ac<g ref="char:EOLhyphen"/>cidents ſhould become diſabled for fu<g ref="char:EOLhyphen"/>ture Service at Sea, and ſhall not be in a condition to maintain them<g ref="char:EOLhyphen"/>ſelves comfortably, may not fall un<g ref="char:EOLhyphen"/>der Hardſhips and Miſery, but may be ſupported at the Publick Charge, And that the Children of ſuch diſa<g ref="char:EOLhyphen"/>bled Seamen, And alſo the Widows and Children of ſuch Seamen who ſhall happen to be Slain or Drown<g ref="char:EOLhyphen"/>ed in Sea Service, may in ſome reaſonable manner be Provided for
+<pb n="64" facs="tcp:135699:71"/> and Educated, His Majeſty and Her late Majeſty determined That an Hoſpital ſhould be Erected and En<g ref="char:EOLhyphen"/>dowed for the purpoſes aforeſaid, And in order thereto by their Letters Patent gave a Parcel of Ground in the Mannor of <hi>Eaſt Geeenwich,</hi> and Their Palace ſtanding upon Their ſaid Ground, and ſeveral o<g ref="char:EOLhyphen"/>ther Buildings and things mentio<g ref="char:EOLhyphen"/>ned in the ſaid Letters Patents to the intent that they ſhould be con<g ref="char:EOLhyphen"/>verted to the Service of an Hoſpi<g ref="char:EOLhyphen"/>tal for the Relief of Seamen, their Widows and Children, and Incou<g ref="char:EOLhyphen"/>ragement of Navigation. <hi>And whereas</hi> His Majeſty in further exe<g ref="char:EOLhyphen"/>cution of his Pious Intention for the Founding of an Hoſpital at <hi>Greenwich</hi> for the purpoſes aforeſaid, hath by His Letters Patents dated the 10th of <hi>December</hi> 1695. Conſti<g ref="char:EOLhyphen"/>tuted Commiſſioners, and Granted an Annual Sum payable out of the Treaſury, and given divers proper Directions and Authorities for carry<g ref="char:EOLhyphen"/>ing on and perfecting the ſaid Hoſ<g ref="char:EOLhyphen"/>pital and the Maintenance thereof, and of the Perſons to be placed therein. <hi>And</hi> to the Intent that ſuch Mariners, Watermen, Seamen, Fiſhermen, Lightermen, Bargemen and Keelmen, or Seafaring Men be<g ref="char:EOLhyphen"/>ing natural Born Subiects of this
+<pb facs="tcp:135699:71"/>
+                  <pb facs="tcp:135699:72"/>
+                  <pb n="65" facs="tcp:135699:72"/> Realm, or any of His Majeſties Do<g ref="char:EOLhyphen"/>minions, or being in <hi>England,</hi> and above the Age of 18 Years, or under the Age of Fifty Years,<note place="margin">Perſons under the Age of 50 and above 18.</note> and being capable of the Sea Service, who ſhall be willing to Enter and Regi<g ref="char:EOLhyphen"/>ſter himſelf for the Service of His Majeſty in His Royal Fleet or Na<g ref="char:EOLhyphen"/>vy, may by himſelf or any perſon by him thereunto in Writing Authori<g ref="char:EOLhyphen"/>zed or Imployed, deliver and give in his Chriſtian Name and Sir<g ref="char:EOLhyphen"/>name, with his Age and Place of his Abode and Habitation, unto ſuch Of<g ref="char:EOLhyphen"/>ficers as ſhall be appointed for the Regiſtring of Seamen, as is here<g ref="char:EOLhyphen"/>in after mentioned; <hi>And</hi> that ſuch and ſo many Publick Officers for the Regiſtring the Perſons for Sea Service as aforeſaid,<note place="margin">Offices and Officers for Regiſtring Seamen, &amp;c.</note> ſhall be kept at His Majeſties Charge at the <hi>Navy-Office</hi> in <hi>London,</hi> and ſuch of the Principal Officers of the Navy or other Perſons ſhall be appointed thereto. And the making and keep<g ref="char:EOLhyphen"/>ing ſuch Regiſter ſhall be perform'd in ſuch Forms and Methods as His Majeſty or the Commiſſioners of the Admiralty ſhall from time to time preſcribe and appoint, So as that in the ſaid Regiſter there ſhall be Entred down and Regiſtred in Order and Courſe of Time as well the Names, Sir-names, Additions,
+<pb n="66" facs="tcp:135699:73"/> Ages, Place of Abode, or Habita<g ref="char:EOLhyphen"/>tion of all and every ſuch Mariner, Seaman, Waterman, Fiſherman, Lighterman, Bargeman, Keelman or Seafaring Man as aforeſaid, <hi>And</hi> alſo, the true Days and Times of ſuch Regiſtry or Entry, for which no Fee, Reward or Gratuity what<g ref="char:EOLhyphen"/>ſoever ſhall be demanded or received other than from His Majeſty. <hi>And</hi> if any Perſon ſhall knowingly make or cauſe to be made in any of the ſaid Offices any Falſe Entries of any Perſon's Name,<note place="margin">Wilful miſ-en<g ref="char:EOLhyphen"/>try of Seamen.</note> 
+                  <hi>&amp;c.</hi> he ſhall forfeit the ſum of one Hundred Pounds, one Moyety to His Majeſty, and the other to ſuch Perſon as ſhall Sue for the ſame.</p>
+               <p>The reſpective Regiſterers to be appointed,<note place="margin">Oaths to be taken by Re<g ref="char:EOLhyphen"/>giſterers.</note> ſhall before their En<g ref="char:EOLhyphen"/>trance thereinto, or intermedling therewith, take an Oath before the Iudge of the Admiralty, or before Two or more of His Majeſties Iuſti<g ref="char:EOLhyphen"/>ces of the Peace for that County, <hi>&amp;c.</hi> wherein ſuch Office ſhall be, for the true and faithful Execution thereof, That the ſaid Navy Of<g ref="char:EOLhyphen"/>fice or ſuch other Office as ſhall be appointed by His Majeſty ſhall be called the Head Office whereto all the other Regiſterers in the Sea-Ports ſhall from Time to Time,
+<pb facs="tcp:135699:73"/>
+                  <pb facs="tcp:135699:74"/>
+                  <pb n="67" facs="tcp:135699:74"/> without any Fee, ſave from His Majeſty, give Certificates under their Hands and Seals of the Num<g ref="char:EOLhyphen"/>bers, Names, Places of Abode and Additions of all Seamen, Water<g ref="char:EOLhyphen"/>men, <hi>&amp;c.</hi> that ſhall be Regiſtred within their reſpective Offices, And of the true Times when ſuch En<g ref="char:EOLhyphen"/>try was firſt made, which Certifi<g ref="char:EOLhyphen"/>cates ſhall by the ſaid Regiſter be Filed in Courſe of Time as they came in, and the Names of the Sea<g ref="char:EOLhyphen"/>men, <hi>&amp;c.</hi> therein mentioned, ſhall be in order of Time, and without any undue Preference, Entred and Re<g ref="char:EOLhyphen"/>giſtred there alſo, So that in that Office the Number, Names, Pla<g ref="char:EOLhyphen"/>ces of Habitation of all Seafaring Men Regiſtred throughout the Kingdom, and their reſpective Time of coming in to be Regiſtred may from time to time appear, a true Copy of which ſhall once a Year,<note place="margin">Commiſſio<g ref="char:EOLhyphen"/>ners of Admi<g ref="char:EOLhyphen"/>ralty to have Copies of the Regiſtry.</note> or oftner if required, be given by the Officers at the Head-Office to the Commiſſioners of the Admi<g ref="char:EOLhyphen"/>ralty, who are to give timely direc<g ref="char:EOLhyphen"/>tions that ſuch of them as they ſhall find moſt proper for His Majeſties Service may from time to time in each Year be diſpoſed for the Ser<g ref="char:EOLhyphen"/>vice of the Fleet in every or any Year beginning from the Firſt of <hi>January,</hi> during which the Number
+<pb n="68" facs="tcp:135699:75"/> of Regiſtred Seamen then alive, ſhall not exceed 30000. Every Re<g ref="char:EOLhyphen"/>giſtred Seaman ſhall be allowed from His Majeſty, whether he be in actual Service or not, the Yearly Sum of 40 <hi>s</hi> over and above ſuch other Pay as he ſhall be Intituled to by being in His Majeſties Service, <hi>And</hi> in every Year during which the Regiſtred Seamen then alive ſhall exceed 30000, there ſhall in like man<g ref="char:EOLhyphen"/>ner be allowed 40 <hi>s.</hi> a Year to each of the firſt 30000 Regiſtred,<note place="margin">Reward to Regiſtred Sea<g ref="char:EOLhyphen"/>men.</note> 
+                  <hi>And moreover,</hi> none but ſuch Regiſtred Perſons ſhall be Preferred to any Commiſſion or Warrant Offices in the Navy, and every ſuch Regi<g ref="char:EOLhyphen"/>ſtred Seaman being in His Maje<g ref="char:EOLhyphen"/>ſties Service in a Foreign Voyage, may appoint to his Wife or any Perſon any part or proportion of the Pay due, or to be due to him for his Service, not exceeding 2 Months Pay in every 6 Months, which ſhall be duly comply'd with upon proof of the 6 Months Service by return of Muſters according to the practice of the Navy, and on like proof of ſuch Seaman's Death in the Service, the Wages remaining due to him ſhall be paid to his Executors or Adminiſtrators without tarrying for the Ships Return, or her General Pay.</p>
+               <pb facs="tcp:135699:75"/>
+               <pb facs="tcp:135699:76"/>
+               <pb n="69" facs="tcp:135699:76"/>
+               <p>
+                  <hi>Alſo,</hi>
+                  <note place="margin">Double ſhare of Prizes to Regiſtred Seamen.</note> Every Seaman Regiſter<g ref="char:EOLhyphen"/>ed, ſhall upon taking any Prize at Sea wherein he ſhall be Intitu<g ref="char:EOLhyphen"/>led to any Share, have a double part more than any other Seaman of like Quality in the Ship with himſelf.</p>
+               <p>Vpon producing a Certificate of his being Regiſtred he ſhall from time to time be freed from ſerving upon any Iuries or Inqueſts,<note place="margin">Regiſtred Sea<g ref="char:EOLhyphen"/>man's Privi<g ref="char:EOLhyphen"/>ledge and Exemption.</note> or in the <hi>Militia,</hi> or in or about the aſſeſ<g ref="char:EOLhyphen"/>ſing or Collecting of any Publick Taxes or Aſſeſſments, or in the Of<g ref="char:EOLhyphen"/>fices of Conſtable, Tythingman, Boſholders, Church-Wardens or Overſeer or Collector of the Poor, or any other Pariſh Office whatſoe<g ref="char:EOLhyphen"/>ver, Except he ſhall declare himſelf willing to ſerve in the ſaid Offices, for which Certificate no Fee to be demanded or received.</p>
+               <p>All Regiſtred Perſons by Age,<note place="margin">Aged and diſ<g ref="char:EOLhyphen"/>abled Seamen to be put into Hoſpital on Certificate.</note> Wounds or other Accidents diſa<g ref="char:EOLhyphen"/>bled for further Service at Sea, and not in a Condition to Maintain themſelves Comfortably, ſhall upon Certificate thereof from the Cap<g ref="char:EOLhyphen"/>tain, Maſter, Surgeon and Purſer, or ſo many of them as were in the ſaid Ship for the Time being under
+<pb n="70" facs="tcp:135699:77"/> his or their Hands unto the Gover<g ref="char:EOLhyphen"/>nour of the ſaid Hoſpital at <hi>Green<g ref="char:EOLhyphen"/>wich,</hi> be admitted into the ſaid Hoſ<g ref="char:EOLhyphen"/>pital, and there provided with fitting and convenient Lodging, Meat, Drink and Clothing and other Ne<g ref="char:EOLhyphen"/>ceſſaries during their Life.</p>
+               <p>
+                  <note place="margin">Widows of Regiſtred Sea<g ref="char:EOLhyphen"/>men.</note>
+                  <hi>Alſo,</hi> The Widows of ſuch Sea<g ref="char:EOLhyphen"/>men who ſhall be Slain, Kill'd or Drowned in the Service, and the Children of ſuch Seafaring Men ſo Kill'd or Drown'd, and not of Abi<g ref="char:EOLhyphen"/>lity to Maintain themſelves Com<g ref="char:EOLhyphen"/>fortably, ſhall be received into the ſaid Hoſpital, and there provided for, And the ſaid Children ſhall be edu<g ref="char:EOLhyphen"/>cated at the Charges of the ſaid Hoſpital, till they are fit to be put out, or of ability to maintain them<g ref="char:EOLhyphen"/>ſelves.</p>
+               <p>
+                  <note place="margin">Proviſo, That if Regiſtred Seamen do not ſerve.</note>
+                  <hi>Provided always,</hi> That if any Re<g ref="char:EOLhyphen"/>giſtred Perſon during time of actu<g ref="char:EOLhyphen"/>al War withdraw or abſent himſelf from His Majeſties Service in his Navy, and ſhall not within 30 days after due Summons or Warning from the Commiſſioners of the Ad<g ref="char:EOLhyphen"/>miralty, Commiſſioners of the Na<g ref="char:EOLhyphen"/>vy, Officers of the Regiſtry, or Vice-Admirals of the ſeveral Counties repair on Board the Ship to which he belongs, or ſhall be appointed, not
+<pb facs="tcp:135699:77"/>
+                  <pb facs="tcp:135699:78"/>
+                  <pb n="71" facs="tcp:135699:78"/> being detained by Sickneſs or other Bodily Infirmities to be atteſted by the Oath of Two Credible Witneſ<g ref="char:EOLhyphen"/>ſes to be allow'd by the Commiſſio<g ref="char:EOLhyphen"/>ners of the Admiralty, Navy, Regi<g ref="char:EOLhyphen"/>ſtry or Vice-Admirals, or ſhall relin<g ref="char:EOLhyphen"/>quiſh the Service of His Majeſty without conſent in Writing of the Commiſſioners of the Admiralty, he ſhall for ever looſe the benefit of this Act,<note place="margin">To looſe the benefit of this Act.</note> and ſerve His Majeſty at Sea 6 Months without any Pay, but for ſuch Offence only he ſhall not ſuffer as a Deſerter; <hi>Provided,</hi> That no<g ref="char:EOLhyphen"/>thing in this Act extend to take away the Puniſhment appointed for De<g ref="char:EOLhyphen"/>ſerters by an Act made the 13th <hi>Car. II.</hi>
+               </p>
+               <p>After the Term of 25 Years,<note place="margin">Brotherhood of Trinity-Houſe.</note> from the 25th of <hi>March</hi> 1696, None ſhall be capable of being a <hi>Brother</hi> of <hi>Tri<g ref="char:EOLhyphen"/>nity-Houſe</hi> but who have been Re<g ref="char:EOLhyphen"/>giſtred.</p>
+               <p>Every Seaman ſerving His Ma<g ref="char:EOLhyphen"/>jeſty,<note place="margin">Six Pence per Month to be paid out of Seamens Wa<g ref="char:EOLhyphen"/>ges.</note> or in any Ship or Veſſel be<g ref="char:EOLhyphen"/>longing to any of the Subjects of <hi>England,</hi> or any other His Majeſties Dominions, ſhall allow, and there ſhall be Paid out of his Wages Six Pence a Month for the better ſup<g ref="char:EOLhyphen"/>porting of the ſaid Hoſpital,<note place="margin">How to be Levied.</note> which ſhall be levyed by ſuch Officers, and
+<pb n="72" facs="tcp:135699:79"/> according to ſuch Rules and Me<g ref="char:EOLhyphen"/>thods as ſhall in that behalf be ap<g ref="char:EOLhyphen"/>pointed by the Commiſſioners of the Admiralty.</p>
+               <p>
+                  <note place="margin">Proviſo. The Certifi<g ref="char:EOLhyphen"/>cate to be brought by Seamen.</note>
+                  <hi>Provided always,</hi> That every Sea<g ref="char:EOLhyphen"/>man at the time of his being Regi<g ref="char:EOLhyphen"/>ſtred, ſhall bring or cauſe to be brought a Certificate of his Place of Abode, under the Hands of Two Iuſtices of the Peace of the Coun<g ref="char:EOLhyphen"/>ty or Place where he lives, and as often as any ſuch Seaman ſhall change his Place of Abode, he ſhall bring or cauſe to be brought a new Certificate thereof to the Regiſter under the Penalty of looſing the be<g ref="char:EOLhyphen"/>nefit of his being Regiſtred as a<g ref="char:EOLhyphen"/>foreſaid.</p>
+               <p>
+                  <note place="margin">Regiſtred perſons under 18, and above 55, exempted from Service.</note>Regiſtred Perſons under 18, or obove 55 Years of Age ſhall be ex<g ref="char:EOLhyphen"/>empted from Service upon Sum<g ref="char:EOLhyphen"/>mons as aforeſaid, unleſs they will Voluntarily Enter themſelves to ſerve.</p>
+               <p>
+                  <note place="margin">Regiſtred Per<g ref="char:EOLhyphen"/>ſons preferr'd to Commiſſi<g ref="char:EOLhyphen"/>on not to be intitled to 40 s</note>Regiſtred Perſons preferred to Commiſſion or Warrant Offices, not to be entitled to the 40 <hi>s. per An<g ref="char:EOLhyphen"/>num,</hi> or other benefits of this Act, or liable to any of the Penalties or diſ<g ref="char:EOLhyphen"/>abilities therein mentioned.</p>
+               <pb facs="tcp:135699:79"/>
+               <pb facs="tcp:135699:80"/>
+               <pb n="73" facs="tcp:135699:80"/>
+               <p>Commiſſioners of the Admiralty may Diſcharge any Seaman from the Regiſter,<note place="margin">Admiralty may diſcharge or expunge Perſons Regi<g ref="char:EOLhyphen"/>ſtred.</note> upon any Cauſe for which it ſhall be deſired, And may for any Offence diſmiſs and expunge any Seaman from the Regiſter, and thereby deprive them from the Be<g ref="char:EOLhyphen"/>nefits thereof according to their diſ<g ref="char:EOLhyphen"/>cretion.</p>
+               <p>Licences ſhall at any time be giv<g ref="char:EOLhyphen"/>en by Order of His Majeſty,<note place="margin">Licences to Landmen.</note> or Com<g ref="char:EOLhyphen"/>miſſioners of the Admiralty, to any Landmen deſirous to apply them<g ref="char:EOLhyphen"/>ſelves to Sea-Service to ſerve in Merchant Ships 2 Years, which ſhall Protect them from being Im<g ref="char:EOLhyphen"/>preſs'd, Provided they bring to the Regiſter Two Credible Perſons, Inhabitants, or known in the Place where they enter themſelves, who ſhall aſſert the knowledge of the ſaid Landmen, and their Profeſſion for Two Years paſt.</p>
+               <p>Any Perſon vouching one for a Landman that is a Seaman ſhall for<g ref="char:EOLhyphen"/>feit 20 <hi>l.</hi>
+                  <note place="margin">Perſon vouch<g ref="char:EOLhyphen"/>ing Seaman a Landman.</note>
+               </p>
+               <p>And any Seaman perſonating or taking anothers Name,<note place="margin">Perſonating or taking o<g ref="char:EOLhyphen"/>ther's name. Counterfeit<g ref="char:EOLhyphen"/>ing Licence.</note> And any Seaman or other Perſon whatſoe<g ref="char:EOLhyphen"/>ver, counterfeiting a Licence ſhall forfeit 20 <hi>l.</hi> And ſuffer ſuch Puniſh<g ref="char:EOLhyphen"/>ment
+<pb n="74" facs="tcp:135699:81"/> as by Law may be inflicted, and any Seaman ſo offending ſhall be un<g ref="char:EOLhyphen"/>capable of the benefit of this Act.</p>
+               <p>
+                  <note place="margin">Seamen in Cinque Ports.</note>Seamen Inhabiting in the <hi>Cinque-Ports</hi> to be Regiſtred in ſuch Pla<g ref="char:EOLhyphen"/>ces, and by ſuch Perſons as the Lord Warden ſhall appoint, And to en<g ref="char:EOLhyphen"/>joy the ſame Benefits, and to be liable to the ſame Penalties in caſe of abſenting from the Service, or diſobeying the Lord Wardens Sum<g ref="char:EOLhyphen"/>mons as the Perſons Regiſtred elſewhere. The ſaid Regiſterer to take their Oaths before the Lord Warden, Governour of <hi>Dover,</hi> or his Deputy, or ſome Mayor of the <hi>Cinque Ports.</hi>
+               </p>
+               <p>
+                  <note place="margin">Regiſtred per<g ref="char:EOLhyphen"/>ſon ſhall not be obliged to ſerve as a Land Soldier.</note>No Regiſtred Perſon ſhall by ver<g ref="char:EOLhyphen"/>tue of any of the powers before men<g ref="char:EOLhyphen"/>tioned, be obliged to ſerve as a Land Soldier, but only as a Seaman in His Majeſties Fleet.</p>
+               <p>
+                  <note place="margin">Proviſo, Not to hinder per<g ref="char:EOLhyphen"/>ſon from ſerv<g ref="char:EOLhyphen"/>ing as Chap<g ref="char:EOLhyphen"/>lain or Chi<g ref="char:EOLhyphen"/>rurgion.</note>
+                  <hi>Provided always,</hi> That nothing in this Act extends to the debarring any Perſon from being a Chaplain, Chi<g ref="char:EOLhyphen"/>rurgeon, or any other Officer, in any Office of the Navy, not of ne<g ref="char:EOLhyphen"/>ceſſity to be executed by a Seafaring Man.</p>
+               <pb facs="tcp:135699:81"/>
+               <pb facs="tcp:135699:82"/>
+            </div>
+            <div type="statute">
+               <pb n="75" facs="tcp:135699:82"/>
+               <head>Anno 7 &amp; 8 Will. III. An Act for the better Security of His Majeſties Royal Perſon and Government.</head>
+               <p>
+                  <hi>Sect.</hi> 6. <hi>IIt's Enacted,</hi>
+                  <note place="margin">Officers Civil and Military,</note> That all and every Perſon and Per<g ref="char:EOLhyphen"/>ſons that ſhall be admitted, entred and placed, or taken into any Office or Offices Civil or Military, or re<g ref="char:EOLhyphen"/>ceive any Pay, Salary, Fee or Wa<g ref="char:EOLhyphen"/>ges by reaſon of any Patent or Grant of His Majeſty, or ſhall have Command or Place of Truſt from or under His Majeſty, or by His Au<g ref="char:EOLhyphen"/>thority, or by Authority derived from His Majeſty within <hi>England, &amp;c.</hi> or in His Majeſties Navy,<note place="margin">Officers in Navy,</note> or in the ſeveral Iſlands of <hi>Jerſey</hi> and <hi>Guern<g ref="char:EOLhyphen"/>ſie,</hi> or any of His Majeſties Family or Houſhold ſhall ſubſcribe the Aſſo<g ref="char:EOLhyphen"/>ciation mentioned in the ſame <hi>Section,</hi>
+                  <note place="margin">To ſubſcribe Aſſociation.</note> at the ſame time they ſhall make and ſubſcribe the Declaration men<g ref="char:EOLhyphen"/>tioned in <hi>Statut.</hi> 25 <hi>Car. II.</hi> Intituled <hi>An Act for preventing Dangers from Popiſh Recuſants.</hi>
+               </p>
+               <pb n="76" facs="tcp:135699:83"/>
+               <p>
+                  <note place="margin">Perſons refu<g ref="char:EOLhyphen"/>ſing incapable.</note>
+                  <hi>Sect.</hi> 7. That the Perſons refu<g ref="char:EOLhyphen"/>ſing to Sign the ſaid Aſſociation in the reſpective Courts and Places, ſhall <hi>ipſo facto,</hi> be adjudged incapa<g ref="char:EOLhyphen"/>ble and diſabled in Law to enjoy the ſaid Places, or any benefit by them, And the Places and Offices to be void.</p>
+               <p>
+                  <note place="margin">Penalty on Refuſers.</note>
+                  <hi>Sect.</hi> 8. That all Perſons that ſhall neglect or refuſe to Sign the ſaid Aſſociation within the Times and at the Places aforeſaid, yet af<g ref="char:EOLhyphen"/>ter ſuch refuſal, ſhall execute ſuch Place either by themſelves, or his or their Truſtee or Deputy after the Times expired, and being thereof Convict, ſhall be ſubject to the Pe<g ref="char:EOLhyphen"/>nalties in the laſt recited Act men<g ref="char:EOLhyphen"/>tioned.</p>
+               <p>
+                  <note place="margin">Perſons at Sea at the making the Act, &amp;c.</note>
+                  <hi>Sect.</hi> 14. <hi>Proviſo,</hi> That this Act do not extend to any Perſon in His Majeſties Service on Board the Fleet, or beyond Seas, or ſhall go beyond Seas in His Majeſties Ser<g ref="char:EOLhyphen"/>vice before the 25th <hi>May</hi> 1696. So as ſuch Perſon ſubſcribe the ſaid Aſſo<g ref="char:EOLhyphen"/>ciation according to the appointment of this Act, within Three Months after his return.</p>
+               <pb facs="tcp:135699:83"/>
+               <pb facs="tcp:135699:84"/>
+               <pb n="77" facs="tcp:135699:84"/>
+               <p>
+                  <note place="margin">Civil and Mi<g ref="char:EOLhyphen"/>litary Com<g ref="char:EOLhyphen"/>miſſions not to determine.</note>
+                  <hi>Nota: By this Act it is Enacted, That no Commiſſion either Civil or Military, ſhall Ceaſe, Determine, or be Void by reaſon of the Death or Demiſe of His Majeſty, or any his Succeſſors, but that every ſuch Commiſſion to remain in Force for Six Months after, unleſs ſuperſeded by the next and immediate Succeſ<g ref="char:EOLhyphen"/>ſor, according to the Act of Settle<g ref="char:EOLhyphen"/>ment, 1 Will. &amp; Mariae.</hi>
+               </p>
+            </div>
+            <div type="statute">
+               <head>Anno 7 &amp; 8 Will. III. An Act for Granting His Majeſty an Aid of Four Shillings in the Pound for Carrying on the War againſt <hi>France.</hi>
+               </head>
+               <p>
+                  <hi>AT the end of the Act it's Enacted,</hi>
+                  <note place="margin">Cruiſers.</note> That over and above the Ships for the Line of Battel, and for Convoys to remote Parts, at the leaſt 4 Ships of the Third Rate, 16 of the Fourth Rate; 13 of the Fifth Rate; 10 of the Sixth Rate, ſhall from time to time be directed to Cruiſe at ſuch Stations as Com<g ref="char:EOLhyphen"/>miſſioners of the Admiralty ſhall deem fit.</p>
+               <pb n="78" facs="tcp:135699:85"/>
+               <p>
+                  <note place="margin">In caſe of ne<g ref="char:EOLhyphen"/>ceſſity may be in Line of Battel.</note>
+                  <hi>Proviſo,</hi> In caſe of neceſſity this Act not to hinder the Commiſſioners of the Admiralty from directing any of the ſaid Ships to be in the Line of Battel.</p>
+               <p>
+                  <note place="margin">Admiral to give Certifi<g ref="char:EOLhyphen"/>cate to Parlia<g ref="char:EOLhyphen"/>ment.</note>That it may appear how the ſer<g ref="char:EOLhyphen"/>vice for appointing Cruiſers in pro<g ref="char:EOLhyphen"/>per Stations to ſecure Merchants Ships is performed, Lords of the Admiralty, <hi>&amp;c.</hi> to give a Certificate under their Hands to the next Seſ<g ref="char:EOLhyphen"/>ſion of Parliament, of the Ships ſo ſet out in purſuance of the directions by this Act expreſſing the Names and Rates of the Ships.</p>
+            </div>
+            <div type="statute">
+               <head>Anno 7 &amp; 8 Will. III. An Act for preventing Fraud, and regulating Abuſes in the Planta<g ref="char:EOLhyphen"/>tion Trade.</head>
+               <p>
+                  <note place="margin">Naval Stores may be Im<g ref="char:EOLhyphen"/>ported in Fo<g ref="char:EOLhyphen"/>rein built Ships.</note>
+                  <hi>AMongſt other things it's Enacted,</hi> That Maſts, Timber, and o<g ref="char:EOLhyphen"/>ther Naval Stores for His Maje<g ref="char:EOLhyphen"/>ſties ſervice for the ſpace of Three Years may be Imported from His Majeſties Colonies or Plantations,
+<pb facs="tcp:135699:85"/>
+                  <pb facs="tcp:135699:86"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="79" facs="tcp:135699:86"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:135699:87"/>
+                  <pb n="79" facs="tcp:135699:87"/> into this Kingdom,<note place="margin">Appointed by Commiſſio<g ref="char:EOLhyphen"/>ners of Navy.</note> in ſuch Foreign-built Ships as ſhall be imployed by His Majeſties Commiſſioners of Navy.</p>
+            </div>
+            <div type="statute">
+               <head>Anno 7 &amp; 8 Will. III. An Act for the more effectual pre<g ref="char:EOLhyphen"/>venting the Exportation of Wool, and for the Encouragement of the Importation thereof from <hi>Ireland.</hi>
+               </head>
+               <p>
+                  <hi>Sect. ult. IT's Enacted,</hi> That the Lord High Admiral, <hi>&amp;c.</hi> ſhall from time to time ap<g ref="char:EOLhyphen"/>point one Ship of the Fifth Rate, Two Ships of the ſixth Rate, and Four Armed Sloops conſtantly to Cruiſe from off the <hi>North Foreland</hi> to the <hi>Iſle of Wight,</hi> with Orders for Taking and Seizing all Ships, Veſ<g ref="char:EOLhyphen"/>ſels or Boats which ſhall Export any Wool, or carry or bring any Prohibited Goods or ſuſpected Per<g ref="char:EOLhyphen"/>ſons.</p>
+               <p>Per Stat. 25 Car. II <note place="margin">Nota.</note> 
+                  <hi>All Officers Civil and Military, and all Officers in the Navy are to re<g ref="char:EOLhyphen"/>ceive
+<pb n="80" facs="tcp:135699:88"/>
+                     <gap reason="duplicate" resp="#OXF" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb facs="tcp:135699:88"/>
+                     <gap reason="duplicate" resp="#OXF" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="80" facs="tcp:135699:89"/> the Sacrament in ſome Pariſh Church within Three Months after being in their Places, or having Grant thereof. And in Court of Kings Bench, or Chancery at Weſt<g ref="char:EOLhyphen"/>minſter, or at a Quarter Seſſions for the County, and deliver a Certifi<g ref="char:EOLhyphen"/>cate in Court of their receiving the Sacrament, And are to take the Oaths of Allegiance and Supremacy. Which ſee before Setled in 1 Will. &amp; Mar. and make the Declaration following:</hi>
+               </p>
+               <q>
+                  <hi>I A. B.</hi> do Declare, That I do be<g ref="char:EOLhyphen"/>lieve, That there is not in the Sacrament of the Lord's Supper any Tranſubſtantiation in the Ele<g ref="char:EOLhyphen"/>ment of Bread and Wine, at or af<g ref="char:EOLhyphen"/>ter the Conſecration thereof by any Perſon whatſoever.</q>
+               <p>
+                  <hi>The Penalty for neglecting to take the Oaths, and make the Declarati<g ref="char:EOLhyphen"/>on, and Subſcribe thereto, is, to be diſabled to Sue to be Guardian, Exe<g ref="char:EOLhyphen"/>cutor or Adminiſtrator, or capable of any Legacy, to bear any Office, and to Forfeit 500 l. to Perſon that will Sue for the ſame.</hi>
+               </p>
+               <pb facs="tcp:135699:89"/>
+               <pb facs="tcp:135699:90"/>
+               <pb n="81" facs="tcp:135699:90"/>
+               <p>
+                  <hi>Sect.</hi> 15. This Act extends not to Non-Commiſſion Officers of the Navy, ſo they ſubſcribe and make the Declaration before-mentioned.</p>
+            </div>
+            <div type="statute">
+               <head>Anno 8 &amp; 9 Will. III. An Act to Enforce the Act for En<g ref="char:EOLhyphen"/>couragement of Seamen.</head>
+               <p>
+                  <hi>REcites the Clauſe in the Act</hi> 7 <hi>&amp;</hi> 8 <hi>Will. III. whereby it is Enacted,</hi>
+                  <note place="margin">Sect. 1. Recital of the Act for Regi<g ref="char:EOLhyphen"/>ſtring Seamen as to ſo much as concerns the relief of diſabled and ſlain Seamen, their Widows and Children.</note> That for Relief and Benefit of Re<g ref="char:EOLhyphen"/>giſtred Seamen, <hi>&amp;c.</hi> who by Age, Wounds or other Accidents ſhall be diſabled for future Service at Sea, and ſhall not be able to main<g ref="char:EOLhyphen"/>tain themſelves comfortably, and the Children of ſuch diſabled Seamen, and the Widows and Children of ſuch of them as ſhall happen to be Slain, Kill'd or Drown'd in Sea-Service, ſo far forth as the Hoſpi<g ref="char:EOLhyphen"/>tal ſhall be capable to receive them, and the Revenue thereof to maintain them. Every ſuch Seaman, <hi>&amp;c.</hi> Regiſtred and Diſabled, ſhall upon Certificate in manner as directed by the ſaid Statute be admitted and placed in the ſaid Hoſpital, and ſhall
+<pb n="82" facs="tcp:135699:91"/> be provided out of the Revenues of the ſaid Hoſpital, according to the Rules and Orders to be provided and ſetled for the ſaid Hoſpital, con<g ref="char:EOLhyphen"/>venient Lodging Meat, Drink, Cloaths, and other Neceſſaries and Conveniencies, and the Widows and Children of ſuch Slain, Regi<g ref="char:EOLhyphen"/>ſtred Seaman to be in like manner received and provided for.</p>
+               <p>
+                  <note place="margin">Perſons ſo re<g ref="char:EOLhyphen"/>ceived into the Hoſpital, and relieved, to be in Or<g ref="char:EOLhyphen"/>der of time, as appearing on the Regiſtry Book of Sea<g ref="char:EOLhyphen"/>men.</note>And foraſmuch as there may be di<g ref="char:EOLhyphen"/>vers Perſons ſo Regiſtred and diſ<g ref="char:EOLhyphen"/>abled, and divers of the Widows and Children of ſuch Regiſtred Sea<g ref="char:EOLhyphen"/>men may at one and the ſame time ſtand in need, and by the ſaid Act claim the Bounties and Advantages aforeſaid, <hi>It is Enacted,</hi> For the a<g ref="char:EOLhyphen"/>voiding all Partiality and Favour, That all and every ſuch Perſons who by the ſaid Act may claim any of the ſaid Bounties, Proviſions or Allowances, ſhall be received into the ſaid Hoſpital, and maintained, upon Certificates to be had in man<g ref="char:EOLhyphen"/>ner as by the recited Act is provided, in ſucceſſion one after another, as the Perſon Regiſtred ſhall be and appear in Courſe and Order of Time to be upon the Regiſtry Book of Seamen, And the Widows and Children of the Perſons longeſt Regiſtred always to be preferred and
+<pb facs="tcp:135699:91"/>
+                  <pb facs="tcp:135699:92"/>
+                  <pb n="83" facs="tcp:135699:92"/> admitted into the ſaid Hoſpital, and the Benefits thereof to be imployed in manner as aforeſaid.</p>
+               <p n="2">
+                  <hi>II.</hi>
+                  <note place="margin">Certificate under the Hand of one Juſtice of Peace ſuffici<g ref="char:EOLhyphen"/>ent Warrant to Regiſter Seaman.</note> For greater eaſe to all and every Seamen who have liberty to Regiſter themſelves, Every ſuch Seaman from and after the Tenth day of <hi>April</hi> next enſuing, bringing or cauſing to be brought a Certifi<g ref="char:EOLhyphen"/>cate in manner as the ſaid Act di<g ref="char:EOLhyphen"/>rects, of the Place of his Abode, and in caſe of Removal, a new Cer<g ref="char:EOLhyphen"/>tificate under the Hand of any one or more Iuſtices of the Peace of the Place and County where he lives in ſuch and the like manner as the ſaid Act directs, and be alſo In<g ref="char:EOLhyphen"/>tituled to all and every the Benefits and Advantages given in and by the ſaid Act,<note place="margin">And to have like Benefit.</note> as well for himſelf as his Wife, Widow and Children. The ſaid Iuſtices giving ſuch Cer<g ref="char:EOLhyphen"/>tificate, is required to make ſtrict inquiry into the truth of the Con<g ref="char:EOLhyphen"/>tents of the Certificate ſo by them to be given, and to examine the Parties ſo deſiring the Certificate on Oath, if ſhall ſee occaſion.<note place="margin">Juſtices to Examine into truth of Cer<g ref="char:EOLhyphen"/>tificate on Oath.</note> And if on Examination the ſaid Iuſtice ſhall find any Fraud, ſuch Iuſtices are required to Certifie the ſame to the Commiſſioners of the Admi<g ref="char:EOLhyphen"/>ralty,
+<pb n="84" facs="tcp:135699:93"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:135699:93"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="84" facs="tcp:135699:94"/> or Lord High Admiral,<note place="margin">And (if find any fraud) to certifie.</note> that ſuch Fraud and Deceit may be pre<g ref="char:EOLhyphen"/>vented.</p>
+               <p n="3">
+                  <note place="margin">Maſters Mates and their Wives and Children to have Benefits and advanta<g ref="char:EOLhyphen"/>ges of the Act</note>
+                  <hi>III. It is Enacted,</hi> That if any Perſon Regiſtred, and who are or ſhall be raiſed to the Degree of Ma<g ref="char:EOLhyphen"/>ſter's Mate in any of His Majeſties Ships of War, and the Wives and Children of ſuch Maſter's Mate are declared and enabled to have and enjoy all and every the Benefits, Advantages and Bounties given to any other Perſons ſo Regiſtred, or to their Wives and Children.</p>
+               <p n="4">
+                  <note place="margin">What perſons above Fifty may Regiſter themſelves.</note>
+                  <hi>IV. It is Enacted.</hi> That from and after the Tenth day of <hi>April</hi> next, all and every ſuch Seamen who are above the Age of Fifty, and who by the ſaid Act might Regiſter them<g ref="char:EOLhyphen"/>ſelves in manner as aforeſaid, in caſe they were not of ſuch Age, and who ſhall appear by the Books of the <hi>Na<g ref="char:EOLhyphen"/>vy-Office</hi> to have faithfully ſerved on Board any of His Majeſties Ships for the ſpace of Seven Years paſt, without wilful deſerting the ſame, ſhall upon producing Certificate un<g ref="char:EOLhyphen"/>der the Hand of one Iuſtice of Peace in manner aforeſaid be Regiſtred, and ſuch Perſon ſo Regiſtred, and their Wives and Children, Execu<g ref="char:EOLhyphen"/>tors and Adminiſtrators, to have and
+<pb facs="tcp:135699:94"/>
+                  <pb facs="tcp:135699:95"/>
+                  <pb n="85" facs="tcp:135699:95"/> enjoy the ſeveral and reſpective Pri<g ref="char:EOLhyphen"/>viledges in the ſaid Act.</p>
+               <p n="5">
+                  <hi>V. Proviſo,</hi>
+                  <note place="margin">Perſons of 50 not to be Re<g ref="char:EOLhyphen"/>giſtred until give reaſon for omitting Regiſtring before.</note> That no Perſon a<g ref="char:EOLhyphen"/>bove Fifty ſhall after the ſaid Tenth of <hi>April</hi> be permitted to Regiſter themſelves without giving ſuch rea<g ref="char:EOLhyphen"/>ſons for the omitting the Regiſtring themſelves as ſhall be approved by Commiſſioners of the Admiralty, or any Three or more of them, or the Lord High Admiral, or the Com<g ref="char:EOLhyphen"/>miſſioners of the Navy, or any Three of them, or ſuch Perſons as ſhall be appointed by the King for keeping the ſaid Regiſter.</p>
+               <p n="6">
+                  <hi>VI.</hi>
+                  <note place="margin">Commiſſio<g ref="char:EOLhyphen"/>ners of the Regiſtry to examine on Oath Maſters of Ships for diſcovery of Seamens Wa<g ref="char:EOLhyphen"/>ges.</note> For the better levying and collecting the Duties of Six Pence <hi>per Menſem,</hi> given and granted by the ſaid recited Act for the Revenues ond ſupport of the ſaid Hoſpital, <hi>&amp;c.</hi> It ſhall be lawful for Commiſſioners appointed for Regiſtering of Sea<g ref="char:EOLhyphen"/>men or their reſpective Deputies for time being, for the better diſcovery of the Pay and Wages due to the Sailors and Perſons who ſerved on Board any the Merchants and Pri<g ref="char:EOLhyphen"/>vateer Ships or Veſſels in the ſaid Act mentioned, to cauſe all ſuch Ma<g ref="char:EOLhyphen"/>ſters and Commanders of ſuch Ships not in His Majeſties Ser<g ref="char:EOLhyphen"/>vice, to be and appear before them
+<pb n="86" facs="tcp:135699:96"/> the ſaid Commiſſioners or the reſ<g ref="char:EOLhyphen"/>pective Deputies who are hereby impowered all and every ſuch Ma<g ref="char:EOLhyphen"/>ſters and Commanders upon their Oaths to Examine, as to the Number, Rates, Salaries, Wa<g ref="char:EOLhyphen"/>ges and Times of Service of all and every ſuch Perſon or Perſons belonging to or ſerving in ſuch Ships or Veſſels in the ſaid recited Act, and which by the ſaid Act are obliged to Pay the ſaid Duty of <hi>Six Pence per Menſem</hi> out of their Sa<g ref="char:EOLhyphen"/>laries and Wages as aforeſaid, <hi>And</hi> if ſuch Maſters and Comman<g ref="char:EOLhyphen"/>ders, or any of them, ſhall refuſe when Summoned or Commanded to appear before the ſaid reſpective Perſons unpower'd to Examine them in manner as aforeſaid, Or if they ſhall appear and obſtinately re<g ref="char:EOLhyphen"/>fuſe to give a plain, full and exact Diſcovery of the Matters aforeſaid upon their Oaths, that then in eve<g ref="char:EOLhyphen"/>ry ſuch caſe, all and every ſuch Of<g ref="char:EOLhyphen"/>fendor or Offendors ſhall for every ſuch Refuſal or Neglect Forfeit the Sum of 10 <hi>l.</hi> to the uſe mentioned in the ſaid recited Act,<note place="margin">Penalty of Refuſers.</note> to be recover<g ref="char:EOLhyphen"/>ed by Action of Debt, Bill, Plaint or Information in any of His Maje<g ref="char:EOLhyphen"/>ſties Courts of Record at <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> with full Coſts of Suit, <hi>Provi<g ref="char:EOLhyphen"/>ded,</hi> ſuch Maſters be not <hi>Quakers,</hi> or reputed <hi>Quakers.</hi>
+               </p>
+               <pb facs="tcp:135699:96"/>
+               <pb facs="tcp:135699:97"/>
+               <pb n="87" facs="tcp:135699:97"/>
+               <p n="7">
+                  <hi>VII. It is Enacted,</hi>
+                  <note place="margin">
+                     <hi>Quakers</hi> to be examined.</note> That every Maſter or Commander of a Ship or Veſſel mentioned in the ſaid re<g ref="char:EOLhyphen"/>cited Act, being a <hi>Quaker,</hi> may and ſhall be Examined before the ſaid Commiſſioners appointed for Regi<g ref="char:EOLhyphen"/>ſtring Seamen, or Three or more of them or their Deputys, and the ſaid Commiſſioners or their Deputies may and ſhall from Time to Time take the ſolemn Affirmation and Declaration of ſuch <hi>Quakers</hi> inſtead of their Oaths, and in ſuch Manner and Form as by an Act made in the Seventh and Eighth Year of His Majeſties Reign is directed, Inti<g ref="char:EOLhyphen"/>tuled <hi>An Act That the Solemn Affir<g ref="char:EOLhyphen"/>mation and Declaration of the People called</hi> Quakers <hi>ſhall be accepted in<g ref="char:EOLhyphen"/>ſtead of an Oath in uſual Form,</hi> And ſuch <hi>Quaker</hi> refuſing to appear on ſuch Summons, or to Anſwer and Make ſuch Solemn Affirmation or Declaration before the ſaid Com<g ref="char:EOLhyphen"/>miſſioners or their Deputy or De<g ref="char:EOLhyphen"/>puties, ſhall be deemed Offendors, and be liable to the ſame Penalties and Forfeitures mentioned in this Act, for refuſing to appear and be Examined on Oath, and Swear as aforeſaid.</p>
+               <pb n="88" facs="tcp:135699:98"/>
+               <p n="8">
+                  <note place="margin">Perſons lend<g ref="char:EOLhyphen"/>ing Regiſter Certificates.</note>
+                  <hi>VIII.</hi> Whereas ſince making the recited Act divers ill Perſons Re<g ref="char:EOLhyphen"/>giſtred, have fraudulently lent their Regiſter Certificates to divers Ma<g ref="char:EOLhyphen"/>riners, Seamen, Watermen, <hi>&amp;c.</hi> who were not Regiſter'd purſuant to the ſaid Act, with intent to keep ſuch Perſons not Regiſter'd from being Impreſs'd in His Majeſties Ser<g ref="char:EOLhyphen"/>vice, For preventing ſuch evil Prac<g ref="char:EOLhyphen"/>tices, <hi>It is Enacted,</hi> That whatever Perſon or Perſons ſo Regiſter'd, as aforeſaid, ſhall after the Tenth of <hi>April</hi> next, directly or indirectly lend to, leave with, or diſpoſe of his or their Certificate, of his or their being Regiſter'd, to any Mariner, <hi>&amp;c.</hi> whereby to keep or protect ſuch Perſon from being Impreſſed into His Majeſties Service, It ſhall be lawful for the Lord High Admiral or Commiſſioners of the Admiral<g ref="char:EOLhyphen"/>ty,<note place="margin">Puniſhment for offenders.</note> or any Three or more of them, to cauſe ſuch Offendors to be ſtruck out of the ſaid Regiſter, and looſe the benefit of the ſaid recited Act, and to be compelled to ſerve in His Majeſties Service, for the ſpace of Six Months, without any Pay, as in caſe of Regiſter'd Man not ap<g ref="char:EOLhyphen"/>pearing on Summons to ſerve in His Majeſties Service according to the ſaid Act; And that every Perſon
+<pb facs="tcp:135699:98"/>
+                  <pb facs="tcp:135699:99"/>
+                  <pb n="89" facs="tcp:135699:99"/> who ſhall borrow,<note place="margin">Perſons bor<g ref="char:EOLhyphen"/>rowing, how to be puniſht.</note> take or receive for themſelves or other Perſons, ſuch Certificates, or make uſe of the ſame for the intents and purpoſes aforeſaid, ſhall in all reſpects ſuffer the like Pains and Penalties, and to the ſame Vſes as are provided in and by the ſaid recited Statute a<g ref="char:EOLhyphen"/>gainſt ſuch Perſons as vouch falſly Perſons to be Landmen who are afterwards proved to be Seamen, or ſhall be compelled to ſerve His Ma<g ref="char:EOLhyphen"/>jeſty in Sea Service for the ſpace of Six Months, without Pay or Wages.</p>
+               <p n="9">
+                  <hi>IX.</hi>
+                  <note place="margin">Certificate under Mayor, Bayliffs, or Deputies in Cinque Ports, to be as good as Certificates from Juſtices.</note> 
+                  <hi>Whereas</hi> in Iuriſdiction of <hi>Cinque Ports</hi> and their Towns and Members in <hi>Kent</hi> and <hi>Suſſex,</hi> there are not any Iuſtices of Peace, or Diviſions, as in the reſt of the Coun<g ref="char:EOLhyphen"/>ties, but only Mayors, Bayliffs and their Deputies, <hi>It is Enacted,</hi> That ſuch Certificate as aforeſaid, under the Hand and Seal of any Mayor, or Deputy Mayor, Bayliff or Deputy Bayliff within Iurisdic<g ref="char:EOLhyphen"/>tion of the <hi>Cinque Ports,</hi> obtained in manner as aforeſaid, ſhall be ſuffici<g ref="char:EOLhyphen"/>ent where no Iuſtice of the Peace ſhall be reſiding within Three Miles of ſuch Port or Town.</p>
+            </div>
+            <div type="statute">
+               <pb n="90" facs="tcp:135699:100"/>
+               <head>Anno 5 &amp; 6 Will. &amp; Mar. An Act for Granting to His Maje<g ref="char:EOLhyphen"/>ſty certain Duties on Glaſs-Wares, Stone and Earthen Bottles, Coals and Culm for carrying on the War againſt <hi>France.</hi>
+               </head>
+               <p>
+                  <note place="margin">Sect. 28. Nota: Al<g ref="char:EOLhyphen"/>low'd to Col<g ref="char:EOLhyphen"/>liers not to be Impreſſed.</note>
+                  <hi>IT is Enacted,</hi> That for Encou<g ref="char:EOLhyphen"/>ragement of all ſuch Ships or Veſſels as ſhall be imployed in bringing Coals for ſupplying the City of <hi>London,</hi> and other Ports of this Kingdom, at more reaſona<g ref="char:EOLhyphen"/>ble Rates than during this War they have hitherto been, that from and after the nine and twentieth day of <hi>September,</hi> there ſhall be al<g ref="char:EOLhyphen"/>lowed Yearly from the fifteenth day of <hi>April</hi> until the firſt day of <hi>January,</hi> free from Impreſſing, to any Ma<g ref="char:EOLhyphen"/>ſter of any Ship or Veſſel imploy'd in the Coal-Trade, two able Sea<g ref="char:EOLhyphen"/>men (ſuch as the Maſter ſhall no<g ref="char:EOLhyphen"/>minate) for every Ship or Veſſel of One Hundred Tun, and one for every Fifty Tun. For every Ship or Veſſel of One Hudred Tun and upwards Burthen, according to the
+<pb facs="tcp:135699:100"/>
+                  <pb facs="tcp:135699:101"/>
+                  <pb n="91" facs="tcp:135699:101"/> Meaſurement which ſuch a Ship or Veſſel ſhall appear to be of by a Certificate which ſhall be produced from the <hi>Cuſtom-Houſe</hi> of what num<g ref="char:EOLhyphen"/>ber of Tuns ſuch a Ship or Veſ<g ref="char:EOLhyphen"/>ſel hath Paid for, by an Act for Levying a Duty on Tunnage of Shipping, And if any Captain,<note place="margin">Officer offen<g ref="char:EOLhyphen"/>ding</note> Lieutenant, or other Officer ſhall by any Authority whatſoever pre<g ref="char:EOLhyphen"/>ſume to Impreſs or take any of the Men allowed by this Act, ſuch Cap<g ref="char:EOLhyphen"/>tain, Lieutenant or other Officer ſhall Forfeit to the Maſter or Ow<g ref="char:EOLhyphen"/>ner of ſuch Ship or Veſſel,<note place="margin">Forfeit Ten Pounds, and incapable of Office.</note> Ten Pounds for every Man he ſhall ſo Impreſs or Take, to be recovered with Coſts of Suit, by Action of Debt, Bill, Plaint or Informa<g ref="char:EOLhyphen"/>tion in any of His Majeſties Courts of Record, wherein no Eſſoigne, <hi>&amp;c.</hi> ſhall be allow'd, and ſhall alſo be made incapable of holding any Place, Office or Imployment in any of His Majeſties Ships of War.</p>
+               <p>
+                  <hi>Sect.</hi> 32. <hi>It is further Enacted,</hi>
+                  <note place="margin">Nine of Forty Three Crui<g ref="char:EOLhyphen"/>ſers to Cruiſe on Northern and Weſtern Coaſts.</note> That Nine of the Ships of War, part of the Forty Three which by an Act of that Seſſion were appointed to Cruiſe in ſeveral Stations to Guard the Coaſts and the Trade of this Kingdom, are appointed
+<pb n="92" facs="tcp:135699:102"/> to Cruiſe or Convoy (that is to ſay) Six on the Northern Coaſt, and Six on the Weſtern Coaſt, in ſuch Stations as ſhall be directed by Lord High Admiral, or Com<g ref="char:EOLhyphen"/>miſſioners of Admiralty for time being,<note place="margin">For Protect<g ref="char:EOLhyphen"/>ing Coal-Trade.</note> for the better Protecting and Preſerving ſuch Ships as ſhall be imployed in the Coal Trade.</p>
+               <pb facs="tcp:135699:102"/>
+               <pb facs="tcp:135699:103"/>
+            </div>
+            <div type="oath">
+               <pb n="93" facs="tcp:135699:103" rendition="simple:additions"/>
+               <head>The Form of the Oath ap<g ref="char:EOLhyphen"/>pointed by the Statute Anno 1 Will. &amp; Mar.</head>
+               <q>
+                  <p>
+                     <hi>I A. B.</hi> do ſincerely Promiſe and Swear, That I will be Faith<g ref="char:EOLhyphen"/>ful, and bear true Allegiance to Their Majeſties King <hi>William</hi> and Queen <hi>Mary.</hi>
+                  </p>
+                  <p>
+                     <hi>So help me God, &amp;c.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>I <hi>A. B.</hi> do Swear, That I do from my Heart, Abhor, Deteſt and Abjure, as Impious and Heretical, that Damnable Doctrine and Po<g ref="char:EOLhyphen"/>ſition, That Princes Excommuni<g ref="char:EOLhyphen"/>cated or Deprived by the Pope, or any Authority of the See of <hi>Rome,</hi> may be Depoſed or Murthered by Their Subjects, or any other what<g ref="char:EOLhyphen"/>ſoever.</p>
+                  <pb n="94" facs="tcp:135699:104"/>
+                  <p>And I Declare, That no Foreign Prince, Perſon, Prelate, State or Potentate, hath or ought to have any Iurisdiction, Power, Superio<g ref="char:EOLhyphen"/>rity, Preeminence or Authority Ec<g ref="char:EOLhyphen"/>cleſiaſtical or Spiritual within this Realm.</p>
+                  <p>
+                     <hi>So help me God, &amp;c.</hi>
+                  </p>
+               </q>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:135699:104"/>
+            <pb facs="tcp:135699:105" rendition="simple:additions"/>
+            <pb facs="tcp:135699:105" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
